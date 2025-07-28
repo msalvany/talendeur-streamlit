@@ -1,0 +1,6 @@
+#Ignore csv files in root folder
+*.csv
+#Ignore virtual environment folder
+venv/.env
+#ignore local configuration of Vs Code
+.vscode/

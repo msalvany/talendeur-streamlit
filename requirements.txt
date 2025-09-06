@@ -5,3 +5,9 @@ numpy
 matplotlib
 wordcloud
 nltk
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers
+flashtext
+scikit-learn
+torch

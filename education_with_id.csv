@@ -1,0 +1,163 @@
+candidate_id,first_name,surname,institution,qualification_type,subject,start_date,end_date,still_studying
+,John,Smith,State University,Bachelor's Degree,Computer Science,2010-09-01,2014-05-15,0
+,John,Smith,Tech Bootcamp Institute,Certificate,Full Stack Development,2014-06-01,2014-12-15,0
+,Sarah,Johnson,Marketing College,Bachelor's Degree,Marketing,2012-09-01,2016-05-20,0
+,Sarah,Johnson,Digital Marketing Academy,Certificate,Digital Marketing Strategy,2018-01-15,2018-06-30,0
+,Michael,Brown,Stanford University,PhD,Computer Science,2015-09-01,2021-12-15,0
+,Michael,Brown,Stanford University,Master's Degree,Artificial Intelligence,2013-09-01,2015-06-30,0
+,Michael,Brown,UC Berkeley,Bachelor's Degree,Computer Science,2009-09-01,2013-05-15,0
+,Jennifer,Davis,Art Institute,Bachelor's Degree,Graphic Design,2014-09-01,2018-05-20,0
+,Jennifer,Davis,Design Workshop,Certificate,UX/UI Design,2019-03-01,2019-08-15,0
+,Robert,Wilson,Business School,Master's Degree,Project Management,2009-09-01,2011-05-15,0
+,Robert,Wilson,State University,Bachelor's Degree,Business Administration,2005-09-01,2009-05-20,0
+,Robert,Wilson,PMI Institute,Certificate,PMP Certification,2012-02-01,2012-04-30,0
+,Lisa,Anderson,Finance University,Master's Degree,Finance,2013-09-01,2015-12-15,0
+,Lisa,Anderson,State College,Bachelor's Degree,Accounting,2009-09-01,2013-05-20,0
+,Lisa,Anderson,CPA Institute,Certificate,CPA Certification,2016-01-15,2016-06-30,0
+,David,Martinez,Technical College,Bachelor's Degree,Information Technology,2011-09-01,2015-05-15,0
+,David,Martinez,AWS Training Center,Certificate,AWS Solutions Architect,2017-03-01,2017-05-30,0
+,David,Martinez,DevOps Academy,Certificate,Kubernetes Administration,2019-01-15,2019-04-30,0
+,Emma,Taylor,Business School,MBA,Business Administration,2015-09-01,2017-12-15,0
+,Emma,Taylor,State University,Bachelor's Degree,Computer Science,2010-09-01,2014-05-20,0
+,Christopher,Moore,Cybersecurity Institute,Master's Degree,Cybersecurity,2012-09-01,2014-12-15,0
+,Christopher,Moore,State University,Bachelor's Degree,Information Technology,2008-09-01,2012-05-15,0
+,Christopher,Moore,Security Academy,Certificate,CISSP Certification,2015-02-01,2015-06-30,0
+,Amanda,Garcia,Sales University,Bachelor's Degree,Business Administration,2011-09-01,2015-05-20,0
+,Amanda,Garcia,Sales Training Institute,Certificate,Advanced Sales Techniques,2017-01-15,2017-04-30,0
+,Ryan,Thompson,Computer Science College,Bachelor's Degree,Computer Science,2012-09-01,2016-05-15,0
+,Ryan,Thompson,Mobile Development Academy,Certificate,iOS Development,2017-03-01,2017-08-15,0
+,Ryan,Thompson,Android Training Center,Certificate,Android Development,2018-01-15,2018-06-30,0
+,Ashley,White,Human Resources College,Bachelor's Degree,Human Resources,2013-09-01,2017-05-20,0
+,Ashley,White,HR Institute,Certificate,PHR Certification,2018-02-01,2018-05-30,0
+,Kevin,Clark,Business Analytics University,Bachelor's Degree,Business Administration,2014-09-01,2018-05-15,0
+,Kevin,Clark,Data Analysis Institute,Certificate,Business Intelligence,2019-01-15,2019-06-30,0
+,Michelle,Lewis,Communications College,Bachelor's Degree,Communications,2011-09-01,2015-05-20,0
+,Michelle,Lewis,Digital Marketing Academy,Certificate,SEO and Content Marketing,2017-03-01,2017-08-15,0
+,Daniel,Walker,Quality Assurance Institute,Bachelor's Degree,Computer Science,2013-09-01,2017-05-15,0
+,Daniel,Walker,Testing Academy,Certificate,Test Automation,2018-01-15,2018-06-30,0
+,Nicole,Hall,Operations Management College,Bachelor's Degree,Business Administration,2010-09-01,2014-05-20,0
+,Nicole,Hall,Operations Institute,Certificate,Supply Chain Management,2016-02-01,2016-07-30,0
+,Brian,Young,Network Engineering College,Bachelor's Degree,Information Technology,2012-09-01,2016-05-15,0
+,Brian,Young,Cisco Academy,Certificate,CCNA Certification,2017-01-15,2017-04-30,0
+,Brian,Young,VMware Training Center,Certificate,VMware Certification,2018-03-01,2018-06-30,0
+,Stephanie,King,Art and Design College,Bachelor's Degree,Graphic Design,2013-09-01,2017-05-20,0
+,Stephanie,King,Adobe Training Center,Certificate,Advanced Photoshop,2018-01-15,2018-03-30,0
+,Anthony,Wright,Database Administration College,Bachelor's Degree,Information Systems,2011-09-01,2015-05-15,0
+,Anthony,Wright,Oracle Academy,Certificate,Oracle DBA Certification,2016-02-01,2016-06-30,0
+,Anthony,Wright,Microsoft Training Center,Certificate,SQL Server Administration,2017-01-15,2017-04-30,0
+,Rachel,Lopez,Customer Success Institute,Bachelor's Degree,Business Administration,2014-09-01,2018-05-20,0
+,Rachel,Lopez,Salesforce Academy,Certificate,Salesforce Administrator,2019-01-15,2019-04-30,0
+,Matthew,Hill,Technical Writing College,Bachelor's Degree,English Literature,2013-09-01,2017-05-15,0
+,Matthew,Hill,Technical Communication Institute,Certificate,API Documentation,2018-02-01,2018-05-30,0
+,Lauren,Green,Supply Chain University,Bachelor's Degree,Operations Management,2012-09-01,2016-05-20,0
+,Lauren,Green,SAP Training Center,Certificate,SAP Supply Chain,2017-01-15,2017-06-30,0
+,Jason,Adams,Cloud Computing Institute,Bachelor's Degree,Computer Science,2010-09-01,2014-05-15,0
+,Jason,Adams,AWS Training Center,Certificate,AWS Solutions Architect,2015-02-01,2015-05-30,0
+,Jason,Adams,Azure Academy,Certificate,Azure Cloud Architect,2017-03-01,2017-06-30,0
+,Jason,Adams,Google Cloud Training,Certificate,Google Cloud Professional,2019-01-15,2019-04-30,0
+,Crystal,Baker,Event Management College,Bachelor's Degree,Hospitality Management,2013-09-01,2017-05-20,0
+,Crystal,Baker,Event Planning Institute,Certificate,Professional Event Planning,2018-01-15,2018-06-30,0
+,Tyler,Gonzalez,Digital Marketing University,Bachelor's Degree,Marketing,2015-09-01,2019-05-15,0
+,Tyler,Gonzalez,Social Media Academy,Certificate,Social Media Marketing,2020-01-15,2020-04-30,0
+,Samantha,Nelson,Research University,PhD,Materials Science,2013-09-01,2021-12-15,0
+,Samantha,Nelson,State University,Master's Degree,Materials Engineering,2011-09-01,2013-06-30,0
+,Samantha,Nelson,Engineering College,Bachelor's Degree,Chemical Engineering,2007-09-01,2011-05-20,0
+,Jordan,Carter,Education University,Master's Degree,Educational Leadership,2012-09-01,2014-12-15,0
+,Jordan,Carter,State College,Bachelor's Degree,Education,2008-09-01,2012-05-20,0
+,Jordan,Carter,Training Institute,Certificate,Instructional Design,2015-02-01,2015-07-30,0
+,Victoria,Mitchell,Law School,JD,Law,2013-09-01,2016-05-15,0
+,Victoria,Mitchell,State University,Bachelor's Degree,Political Science,2009-09-01,2013-05-20,0
+,Victoria,Mitchell,Legal Institute,Certificate,Intellectual Property Law,2017-01-15,2017-06-30,0
+,Gregory,Perez,Logistics University,Bachelor's Degree,Supply Chain Management,2013-09-01,2017-05-20,0
+,Gregory,Perez,Logistics Institute,Certificate,International Freight,2018-02-01,2018-05-30,0
+,Melissa,Roberts,Interior Design College,Bachelor's Degree,Interior Design,2010-09-01,2014-05-15,0
+,Melissa,Roberts,LEED Institute,Certificate,LEED Green Building,2016-01-15,2016-06-30,0
+,Stephen,Turner,Engineering University,Bachelor's Degree,Mechanical Engineering,2009-09-01,2013-05-20,0
+,Stephen,Turner,Product Design Institute,Certificate,Advanced CAD Design,2015-02-01,2015-07-30,0
+,Angela,Phillips,Communications University,Bachelor's Degree,Public Relations,2012-09-01,2016-05-15,0
+,Angela,Phillips,PR Institute,Certificate,Crisis Communications,2018-01-15,2018-04-30,0
+,Eric,Campbell,Film School,Bachelor's Degree,Film Production,2011-09-01,2015-05-20,0
+,Eric,Campbell,Motion Graphics Academy,Certificate,After Effects Mastery,2017-03-01,2017-08-15,0
+,Sharon,Parker,Accounting University,Bachelor's Degree,Accounting,2010-09-01,2014-05-15,0
+,Sharon,Parker,CPA Institute,Certificate,CPA Certification,2015-02-01,2015-06-30,0
+,Nathan,Evans,Physical Therapy School,Doctorate,Physical Therapy,2013-09-01,2016-12-15,0
+,Nathan,Evans,State University,Bachelor's Degree,Kinesiology,2009-09-01,2013-05-20,0
+,Nathan,Evans,Sports Medicine Institute,Certificate,Sports Medicine,2017-01-15,2017-06-30,0
+,Deborah,Edwards,Insurance Institute,Bachelor's Degree,Risk Management,2011-09-01,2015-05-20,0
+,Deborah,Edwards,Underwriting Academy,Certificate,Commercial Underwriting,2016-02-01,2016-07-30,0
+,Carlos,Collins,Environmental Engineering University,Bachelor's Degree,Environmental Engineering,2012-09-01,2016-05-15,0
+,Carlos,Collins,Engineering Institute,Certificate,Professional Engineer License,2017-01-15,2017-04-30,0
+,Patricia,Stewart,Nursing School,Master's Degree,Nursing,2009-09-01,2011-12-15,0
+,Patricia,Stewart,State University,Bachelor's Degree,Nursing,2005-09-01,2009-05-20,0
+,Patricia,Stewart,Nurse Practitioner Institute,Certificate,Family Practice,2012-02-01,2012-08-30,0
+,Benjamin,Sanchez,Computer Science University,Master's Degree,Computer Science,2007-09-01,2009-12-15,0
+,Benjamin,Sanchez,State College,Bachelor's Degree,Software Engineering,2003-09-01,2007-05-20,0
+,Benjamin,Sanchez,Architecture Institute,Certificate,Enterprise Architecture,2015-01-15,2015-06-30,0
+,Cynthia,Morris,Business School,MBA,Finance,2012-09-01,2014-12-15,0
+,Cynthia,Morris,Finance University,Bachelor's Degree,Finance,2008-09-01,2012-05-20,0
+,Harold,Rogers,Construction Management College,Bachelor's Degree,Construction Management,2004-09-01,2008-05-15,0
+,Harold,Rogers,Contractors Institute,Certificate,General Contractor License,2009-02-01,2009-06-30,0
+,Katherine,Reed,Market Research University,Bachelor's Degree,Marketing Research,2013-09-01,2017-05-20,0
+,Katherine,Reed,Statistics Institute,Certificate,Advanced Statistics,2018-01-15,2018-06-30,0
+,Dennis,Cook,Industrial Engineering University,Bachelor's Degree,Industrial Engineering,2011-09-01,2015-05-15,0
+,Dennis,Cook,Engineering Institute,Certificate,Professional Engineer License,2016-02-01,2016-05-30,0
+,Dennis,Cook,Lean Manufacturing Academy,Certificate,Six Sigma Black Belt,2017-01-15,2017-06-30,0
+,Helen,Bailey,Pharmacy School,PharmD,Pharmacy,2010-09-01,2014-05-20,0
+,Helen,Bailey,State University,Bachelor's Degree,Chemistry,2006-09-01,2010-05-15,0
+,Helen,Bailey,Geriatric Pharmacy Institute,Certificate,Geriatric Pharmacy,2015-02-01,2015-07-30,0
+,Lawrence,Rivera,Telecommunications Engineering University,Bachelor's Degree,Electrical Engineering,2010-09-01,2014-05-15,0
+,Lawrence,Rivera,Engineering Institute,Certificate,Professional Engineer License,2015-02-01,2015-05-30,0
+,Lawrence,Rivera,Telecommunications Academy,Certificate,Fiber Optic Systems,2016-01-15,2016-06-30,0
+,Teresa,Cooper,Clinical Research Institute,Bachelor's Degree,Biology,2012-09-01,2016-05-20,0
+,Teresa,Cooper,Clinical Research Academy,Certificate,Good Clinical Practice,2017-01-15,2017-04-30,0
+,Gerald,Peterson,Real Estate University,Bachelor's Degree,Business Administration,2007-09-01,2011-05-15,0
+,Gerald,Peterson,Real Estate Institute,Certificate,Real Estate License,2012-02-01,2012-04-30,0
+,Gerald,Peterson,Commercial Real Estate Academy,Certificate,Commercial Real Estate,2015-01-15,2015-06-30,0
+,Sandra,Richardson,Education University,Master's Degree,Elementary Education,2009-09-01,2011-12-15,0
+,Sandra,Richardson,State College,Bachelor's Degree,Education,2005-09-01,2009-05-20,0
+,Kenneth,Cox,Culinary Institute,Associate Degree,Culinary Arts,2011-09-01,2013-05-15,0
+,Kenneth,Cox,Restaurant Management Academy,Certificate,Restaurant Management,2015-02-01,2015-07-30,0
+,Donna,Ward,Veterinary School,DVM,Veterinary Medicine,2010-09-01,2014-05-20,0
+,Donna,Ward,State University,Bachelor's Degree,Animal Science,2006-09-01,2010-05-15,0
+,Donna,Ward,Emergency Medicine Institute,Certificate,Emergency Veterinary Medicine,2015-02-01,2015-08-30,0
+,Arthur,Torres,Electrical Engineering University,Bachelor's Degree,Electrical Engineering,2008-09-01,2012-05-15,0
+,Arthur,Torres,Engineering Institute,Certificate,Professional Engineer License,2013-02-01,2013-05-30,0
+,Arthur,Torres,Power Systems Academy,Certificate,Power Systems Analysis,2015-01-15,2015-06-30,0
+,Cheryl,Peterson,Social Work University,Master's Degree,Social Work,2011-09-01,2013-12-15,0
+,Cheryl,Peterson,State College,Bachelor's Degree,Psychology,2007-09-01,2011-05-20,0
+,Cheryl,Peterson,Clinical Social Work Institute,Certificate,Licensed Clinical Social Worker,2014-02-01,2014-06-30,0
+,Ralph,Gray,Criminal Justice University,Bachelor's Degree,Criminal Justice,2004-09-01,2008-05-15,0
+,Ralph,Gray,Police Academy,Certificate,Police Officer Training,2009-01-15,2009-06-30,0
+,Ralph,Gray,Investigation Institute,Certificate,Criminal Investigation,2012-02-01,2012-05-30,0
+,Janice,Ramirez,Marketing University,Bachelor's Degree,Marketing,2014-09-01,2018-05-20,0
+,Janice,Ramirez,Digital Marketing Academy,Certificate,Marketing Automation,2019-01-15,2019-04-30,0
+,Wayne,James,Truck Driving School,Certificate,Commercial Driver's License,2005-02-01,2005-05-30,0
+,Wayne,James,Safety Training Institute,Certificate,DOT Safety Regulations,2010-01-15,2010-03-30,0
+,Gloria,Watson,Office Administration College,Associate Degree,Office Administration,2010-09-01,2012-05-15,0
+,Gloria,Watson,Business Software Academy,Certificate,Advanced Office Applications,2015-02-01,2015-05-30,0
+,Roy,Brooks,HVAC Technical College,Associate Degree,HVAC Technology,2009-09-01,2011-05-15,0
+,Roy,Brooks,EPA Training Center,Certificate,EPA Refrigerant Certification,2012-02-01,2012-04-30,0
+,Roy,Brooks,Energy Efficiency Institute,Certificate,Energy Efficiency,2018-01-15,2018-06-30,0
+,Frances,Kelly,Library Science University,Master's Degree,Library and Information Science,2012-09-01,2014-12-15,0
+,Frances,Kelly,State University,Bachelor's Degree,Literature,2008-09-01,2012-05-20,0
+,Eugene,Sanders,Fire Academy,Certificate,Firefighter Training,2007-02-01,2007-08-30,0
+,Eugene,Sanders,EMT Training Center,Certificate,Emergency Medical Technician,2008-01-15,2008-06-30,0
+,Eugene,Sanders,Hazmat Academy,Certificate,Hazardous Materials Response,2012-02-01,2012-05-30,0
+,Marie,Price,Kinesiology University,Master's Degree,Kinesiology,2011-09-01,2013-12-15,0
+,Marie,Price,State College,Bachelor's Degree,Physical Education,2007-09-01,2011-05-20,0
+,Marie,Price,Sports Medicine Institute,Certificate,Sports Medicine,2014-02-01,2014-07-30,0
+,Louis,Bennett,Welding Technical College,Associate Degree,Welding Technology,2005-09-01,2007-05-15,0
+,Louis,Bennett,Welding Institute,Certificate,Certified Welder,2008-02-01,2008-05-30,0
+,Louis,Bennett,Pipeline Welding Academy,Certificate,Pipeline Welding,2012-01-15,2012-06-30,0
+,Doris,Wood,Dental Hygiene College,Associate Degree,Dental Hygiene,2013-09-01,2015-05-20,0
+,Doris,Wood,Dental Academy,Certificate,Licensed Dental Hygienist,2016-02-01,2016-04-30,0
+,Albert,Barnes,Construction Technical College,Associate Degree,Construction Technology,2001-09-01,2003-05-15,0
+,Albert,Barnes,Carpentry Institute,Certificate,Master Carpenter,2005-02-01,2005-08-30,0
+,Lillian,Ross,Banking Institute,Associate Degree,Banking and Finance,2014-09-01,2016-05-20,0
+,Lillian,Ross,Customer Service Academy,Certificate,Customer Service Excellence,2017-01-15,2017-04-30,0
+,Jose,Henderson,Automotive Technical College,Associate Degree,Automotive Technology,2008-09-01,2010-05-15,0
+,Jose,Henderson,ASE Institute,Certificate,ASE Master Technician,2012-02-01,2012-06-30,0
+,Jose,Henderson,Hybrid Vehicle Academy,Certificate,Hybrid and Electric Vehicles,2018-01-15,2018-06-30,0
+,Annie,Coleman,Cosmetology School,Associate Degree,Cosmetology,2007-09-01,2009-05-15,0
+,Annie,Coleman,Beauty Academy,Certificate,Advanced Hair Coloring,2012-02-01,2012-05-30,0
+,Annie,Coleman,Business Management Institute,Certificate,Small Business Management,2015-01-15,2015-06-30,0

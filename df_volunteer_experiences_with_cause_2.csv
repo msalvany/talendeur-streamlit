@@ -1,0 +1,106 @@
+candidate_id,name,surname,organization,start_date,end_date,position/contribution,description,cause
+1,John,Smith,Doctors Without Borders,2016-07-13,2018-02-18,Education Assistant,Led environmental awareness campaigns in local schools.,Health and Humanitarian Aid
+1,John,Smith,Tree Planting Initiative,2018-05-26,2018-11-09,Recycling Program Coordinator,Helped with wildlife rescue and rehabilitation efforts.,Environment and Animals
+2,Sarah,Johnson,Women’s Empowerment Collective,2014-10-05,2015-09-12,Partnership Liaison,Organized awareness campaigns for human rights and social justice.,Emergencies and Social Rights
+2,Sarah,Johnson,Environmental Action Group,2018-08-03,2018-10-17,Event Coordinator,Provided companionship and care to seniors in assisted living.,Environment and Animals
+2,Sarah,Johnson,Habitat for Humanity,2010-04-26,2010-08-23,Education Assistant,Facilitated cultural exchange programs and educational talks.,Environment and Animals
+3,Michael,Brown,After-School Tutoring Program,2014-08-23,2016-03-27,Recycling Program Coordinator,Organized workshops for adults on digital literacy.,Education and Culture
+4,Jennifer,Davis,Human Rights Watch Local Chapter,2015-11-20,2016-05-04,Education Assistant,Helped with wildlife rescue and rehabilitation efforts.,Emergencies and Social Rights
+5,Robert,Wilson,Youth Sports League,2012-10-01,2013-04-25,Workshop Facilitator,Facilitated cultural exchange programs and educational talks.,Sports and Youth
+6,Lisa,Anderson,Doctors Without Borders,2010-02-07,2010-05-27,Volunteer,Helped coordinate emergency shelter and resource distribution.,Health and Humanitarian Aid
+6,Lisa,Anderson,Women’s Empowerment Collective,2016-10-31,2018-06-27,Education Assistant,Helped with wildlife rescue and rehabilitation efforts.,Emergencies and Social Rights
+6,Lisa,Anderson,Senior Care Home,2014-08-14,2015-10-13,Counseling Support,"Organized donation drives for food, clothing, and medical supplies.",Health and Humanitarian Aid
+7,David,Martinez,Beach Clean-Up Program,2017-05-10,2019-04-27,Care Assistant,Created learning materials and supported classroom activities.,Environment and Animals
+7,David,Martinez,University Mentorship Program,2019-03-29,2019-07-21,Environmental Advocate,Coordinated recycling and waste reduction initiatives.,Education and Culture
+7,David,Martinez,Habitat for Humanity,2013-10-28,2015-10-14,Environmental Advocate,"Organized donation drives for food, clothing, and medical supplies.",Environment and Animals
+8,Emma,Taylor,Neighborhood Clean-Up Crew,2016-01-01,2016-06-24,Partnership Liaison,Provided direct support and guidance to program participants.,Environment and Animals
+9,Christopher,Moore,Summer Camp Assistance,2010-04-16,2011-07-01,Recycling Program Coordinator,Led environmental awareness campaigns in local schools.,Sports and Youth
+9,Christopher,Moore,Immigrant Support Network,2017-12-18,2019-03-11,Workshop Facilitator,Created learning materials and supported classroom activities.,Emergencies and Social Rights
+10,Amanda,Garcia,Cultural Heritage Preservation Project,2018-06-07,2018-12-24,Mentor,Provided companionship and care to seniors in assisted living.,Education and Culture
+11,Ryan,Thompson,Disaster Relief Task Force,2017-07-08,2017-12-05,Community Outreach,Helped organize community events and facilitated logistics.,Emergencies and Social Rights
+12,Ashley,White,Disaster Relief Task Force,2018-08-02,2018-09-18,Environmental Advocate,"Tutored children in reading, writing, and mathematics.",Emergencies and Social Rights
+13,Kevin,Clark,Library Reading Program,2017-10-29,2017-12-14,Volunteer,Worked with local leaders to design and implement initiatives.,Education and Culture
+14,Michelle,Lewis,After-School Tutoring Program,2012-03-01,2012-04-21,Organizer,Provided direct support and guidance to program participants.,Education and Culture
+15,Daniel,Walker,Senior Care Home,2011-02-25,2011-06-02,Communications Volunteer,Supported mental health awareness campaigns in the community.,Health and Humanitarian Aid
+15,Daniel,Walker,Adult Literacy Initiative,2012-04-27,2013-09-11,Workshop Facilitator,"Tutored children in reading, writing, and mathematics.",Education and Culture
+16,Nicole,Hall,Environmental Action Group,2016-07-30,2017-09-28,Education Assistant,Supported disaster relief operations after floods and storms.,Environment and Animals
+16,Nicole,Hall,Tree Planting Initiative,2012-06-14,2013-02-27,Community Outreach,Worked with advocacy groups to promote equality and inclusion.,Environment and Animals
+16,Nicole,Hall,Cultural Heritage Preservation Project,2019-07-27,2020-08-22,Counseling Support,Provided direct support and guidance to program participants.,Education and Culture
+17,Brian,Young,Women’s Empowerment Collective,2019-08-24,2021-05-31,Community Outreach,"Tutored children in reading, writing, and mathematics.",Emergencies and Social Rights
+18,Stephanie,King,Human Rights Watch Local Chapter,2013-02-05,2014-03-26,Partnership Liaison,Worked with advocacy groups to promote equality and inclusion.,Emergencies and Social Rights
+18,Stephanie,King,Environmental Action Group,2017-07-27,2018-03-28,Volunteer,Created learning materials and supported classroom activities.,Environment and Animals
+19,Anthony,Wright,Mental Health Support Line,2014-07-25,2015-11-07,Recycling Program Coordinator,Worked with local leaders to design and implement initiatives.,Health and Humanitarian Aid
+19,Anthony,Wright,Adult Literacy Initiative,2010-01-07,2011-03-20,Support Staff,Supported mental health awareness campaigns in the community.,Education and Culture
+19,Anthony,Wright,Homeless Shelter,2012-07-22,2014-06-17,Support Staff,Helped coordinate emergency shelter and resource distribution.,Emergencies and Social Rights
+20,Rachel,Lopez,Disaster Relief Task Force,2017-08-31,2017-12-05,Community Outreach,Provided direct support and guidance to program participants.,Emergencies and Social Rights
+20,Rachel,Lopez,Library Reading Program,2015-01-21,2015-02-28,Tutor,Assisted medical staff with non-clinical support for patients.,Education and Culture
+21,Matthew,Hill,Immigrant Support Network,2014-09-08,2015-02-25,Tutor,Supported disaster relief operations after floods and storms.,Emergencies and Social Rights
+21,Matthew,Hill,Scouts Community,2019-06-24,2019-08-11,Partnership Liaison,Assisted medical staff with non-clinical support for patients.,Sports and Youth
+21,Matthew,Hill,Immigrant Support Network,2016-11-10,2018-08-12,Community Outreach,Assisted with daily operations and coordinated tasks among volunteers.,Emergencies and Social Rights
+22,Lauren,Green,Scouts Community,2010-08-01,2012-03-28,Community Outreach,Provided direct support and guidance to program participants.,Sports and Youth
+23,Jason,Adams,Homeless Shelter,2010-02-26,2011-09-11,Counseling Support,Coordinated recycling and waste reduction initiatives.,Emergencies and Social Rights
+24,Crystal,Baker,After-School Tutoring Program,2010-08-14,2011-08-05,Team Leader,Participated in tree-planting and community gardening projects.,Education and Culture
+24,Crystal,Baker,Youth Empowerment Program,2012-01-23,2013-06-29,Environmental Advocate,Organized awareness campaigns for human rights and social justice.,Sports and Youth
+25,Tyler,Gonzalez,Human Rights Watch Local Chapter,2016-10-05,2018-03-10,Care Assistant,Worked with advocacy groups to promote equality and inclusion.,Emergencies and Social Rights
+25,Tyler,Gonzalez,Community Health Center,2018-08-31,2019-12-24,Event Coordinator,Worked with local leaders to design and implement initiatives.,Health and Humanitarian Aid
+25,Tyler,Gonzalez,Library Reading Program,2010-12-05,2011-04-25,Project Manager,Helped organize community events and facilitated logistics.,Education and Culture
+26,Samantha,Nelson,Youth Empowerment Program,2012-12-12,2014-04-20,Advocacy Coordinator,Worked with advocacy groups to promote equality and inclusion.,Sports and Youth
+26,Samantha,Nelson,Homeless Shelter,2011-09-13,2012-04-16,Volunteer,Created learning materials and supported classroom activities.,Emergencies and Social Rights
+27,Jordan,Carter,Community Theater Group,2016-02-25,2016-05-19,Team Leader,Facilitated cultural exchange programs and educational talks.,Education and Culture
+28,Victoria,Mitchell,University Mentorship Program,2014-03-31,2015-06-26,Community Outreach,Worked with advocacy groups to promote equality and inclusion.,Education and Culture
+28,Victoria,Mitchell,Summer Camp Assistance,2010-09-28,2012-01-22,Conservation Volunteer,Provided direct support and guidance to program participants.,Sports and Youth
+28,Victoria,Mitchell,Animal Shelter,2016-03-18,2016-10-03,Care Assistant,Provided companionship and care to seniors in assisted living.,Environment and Animals
+29,Gregory,Perez,Mental Health Support Line,2013-12-03,2014-10-15,Tutor,Provided companionship and care to seniors in assisted living.,Health and Humanitarian Aid
+29,Gregory,Perez,Local Hospital Volunteer Program,2016-10-26,2018-01-15,Communications Volunteer,Assisted with daily operations and coordinated tasks among volunteers.,Health and Humanitarian Aid
+30,Melissa,Roberts,Cultural Heritage Preservation Project,2019-05-04,2019-06-21,Counseling Support,"Organized donation drives for food, clothing, and medical supplies.",Education and Culture
+30,Melissa,Roberts,Doctors Without Borders,2012-09-12,2013-02-26,Communications Volunteer,Assisted medical staff with non-clinical support for patients.,Health and Humanitarian Aid
+31,Stephen,Turner,Human Rights Watch Local Chapter,2019-08-01,2021-03-06,Counseling Support,Worked with local leaders to design and implement initiatives.,Emergencies and Social Rights
+32,Angela,Phillips,Adult Literacy Initiative,2012-03-22,2013-03-24,Community Outreach,Organized awareness campaigns for human rights and social justice.,Education and Culture
+33,Eric,Campbell,University Mentorship Program,2013-06-08,2014-02-23,Recycling Program Coordinator,Facilitated cultural exchange programs and educational talks.,Education and Culture
+33,Eric,Campbell,Mental Health Support Line,2013-10-22,2014-10-21,Support Staff,Created learning materials and supported classroom activities.,Health and Humanitarian Aid
+34,Sharon,Parker,After-School Tutoring Program,2015-01-27,2016-03-01,Education Assistant,Helped with wildlife rescue and rehabilitation efforts.,Education and Culture
+34,Sharon,Parker,Scouts Community,2011-06-18,2012-01-11,Fundraiser,Assisted with daily operations and coordinated tasks among volunteers.,Sports and Youth
+35,Nathan,Evans,Music for Kids Foundation,2013-02-24,2013-09-22,Support Staff,Provided direct support and guidance to program participants.,Sports and Youth
+36,Deborah,Edwards,Tree Planting Initiative,2018-10-21,2020-02-24,Workshop Facilitator,Helped coordinate emergency shelter and resource distribution.,Environment and Animals
+37,Carlos,Collins,After-School Tutoring Program,2013-09-08,2014-07-17,Advocacy Coordinator,Helped with wildlife rescue and rehabilitation efforts.,Education and Culture
+37,Carlos,Collins,Beach Clean-Up Program,2012-04-12,2014-02-19,Event Coordinator,Helped coordinate emergency shelter and resource distribution.,Environment and Animals
+38,Patricia,Stewart,Adult Literacy Initiative,2012-06-20,2013-06-04,Support Staff,Organized awareness campaigns for human rights and social justice.,Education and Culture
+39,Benjamin,Sanchez,Immigrant Support Network,2011-12-24,2013-10-06,Environmental Advocate,Facilitated cultural exchange programs and educational talks.,Emergencies and Social Rights
+39,Benjamin,Sanchez,Animal Shelter,2010-10-25,2011-12-14,Support Staff,Coordinated recycling and waste reduction initiatives.,Environment and Animals
+39,Benjamin,Sanchez,Tree Planting Initiative,2019-10-11,2021-09-26,Community Outreach,Participated in tree-planting and community gardening projects.,Environment and Animals
+40,Cynthia,Morris,Blood Donation Campaign,2010-03-01,2011-09-30,Care Assistant,Helped organize community events and facilitated logistics.,Health and Humanitarian Aid
+41,Harold,Rogers,Neighborhood Clean-Up Crew,2015-07-26,2017-03-26,Counseling Support,Supported disaster relief operations after floods and storms.,Environment and Animals
+42,Katherine,Reed,Disaster Relief Task Force,2011-09-25,2012-10-19,Communications Volunteer,"Organized donation drives for food, clothing, and medical supplies.",Emergencies and Social Rights
+43,Dennis,Cook,After-School Tutoring Program,2018-11-27,2019-04-25,Community Outreach,Worked with advocacy groups to promote equality and inclusion.,Education and Culture
+43,Dennis,Cook,Women’s Empowerment Collective,2016-07-22,2017-09-15,Counseling Support,Worked with advocacy groups to promote equality and inclusion.,Emergencies and Social Rights
+44,Helen,Bailey,Senior Care Home,2012-03-24,2013-10-13,Environmental Advocate,Facilitated cultural exchange programs and educational talks.,Health and Humanitarian Aid
+45,Lawrence,Rivera,Beach Clean-Up Program,2016-02-25,2017-04-24,Environmental Advocate,Assisted with daily operations and coordinated tasks among volunteers.,Environment and Animals
+45,Lawrence,Rivera,Youth Empowerment Program,2017-12-23,2018-03-22,Conservation Volunteer,Provided companionship and care to seniors in assisted living.,Sports and Youth
+45,Lawrence,Rivera,University Mentorship Program,2015-06-05,2016-01-08,Event Coordinator,Assisted medical staff with non-clinical support for patients.,Education and Culture
+46,Teresa,Cooper,Disaster Relief Task Force,2011-02-25,2012-11-20,Care Assistant,Provided companionship and care to seniors in assisted living.,Emergencies and Social Rights
+46,Teresa,Cooper,Blood Donation Campaign,2012-04-21,2012-12-31,Organizer,Supported mental health awareness campaigns in the community.,Health and Humanitarian Aid
+46,Teresa,Cooper,Blood Donation Campaign,2015-05-13,2016-01-14,Community Outreach,Created learning materials and supported classroom activities.,Health and Humanitarian Aid
+47,Gerald,Peterson,Youth Empowerment Program,2013-05-08,2014-10-24,Project Manager,Created learning materials and supported classroom activities.,Sports and Youth
+47,Gerald,Peterson,Mental Health Support Line,2016-01-16,2017-04-15,Event Coordinator,Worked with advocacy groups to promote equality and inclusion.,Health and Humanitarian Aid
+47,Gerald,Peterson,Doctors Without Borders,2013-06-23,2014-02-02,Care Assistant,Assisted medical staff with non-clinical support for patients.,Health and Humanitarian Aid
+48,Sandra,Richardson,Adult Literacy Initiative,2015-07-05,2016-07-06,Recycling Program Coordinator,Assisted with daily operations and coordinated tasks among volunteers.,Education and Culture
+48,Sandra,Richardson,Immigrant Support Network,2010-05-16,2010-11-11,Team Leader,Supported disaster relief operations after floods and storms.,Emergencies and Social Rights
+48,Sandra,Richardson,Youth Empowerment Program,2014-07-02,2015-11-13,Volunteer,"Tutored children in reading, writing, and mathematics.",Sports and Youth
+49,Kenneth,Cox,Immigrant Support Network,2019-09-28,2021-05-14,Tutor,Led environmental awareness campaigns in local schools.,Emergencies and Social Rights
+50,Donna,Ward,Disaster Relief Task Force,2017-04-29,2018-03-25,Project Manager,Helped with wildlife rescue and rehabilitation efforts.,Emergencies and Social Rights
+51,Arthur,Torres,Habitat for Humanity,2015-09-06,2017-01-05,Communications Volunteer,Assisted medical staff with non-clinical support for patients.,Environment and Animals
+52,Cheryl,Peterson,Wildlife Rescue Center,2018-04-15,2020-01-20,Communications Volunteer,Organized workshops for adults on digital literacy.,Environment and Animals
+52,Cheryl,Peterson,Red Cross,2018-04-23,2018-10-31,Volunteer,Coordinated recycling and waste reduction initiatives.,Health and Humanitarian Aid
+52,Cheryl,Peterson,Neighborhood Clean-Up Crew,2012-06-19,2012-10-28,Event Coordinator,Led environmental awareness campaigns in local schools.,Environment and Animals
+53,Ralph,Gray,University Mentorship Program,2011-07-23,2012-06-18,Mentor,Organized workshops for adults on digital literacy.,Education and Culture
+53,Ralph,Gray,Women’s Empowerment Collective,2014-10-22,2014-11-21,Tutor,"Tutored children in reading, writing, and mathematics.",Emergencies and Social Rights
+54,Janice,Ramirez,Adult Literacy Initiative,2014-09-23,2015-07-27,Tutor,Helped coordinate emergency shelter and resource distribution.,Education and Culture
+54,Janice,Ramirez,Disaster Relief Task Force,2017-10-12,2018-05-30,Support Staff,Coordinated recycling and waste reduction initiatives.,Emergencies and Social Rights
+55,Wayne,James,Habitat for Humanity,2015-10-22,2017-02-15,Partnership Liaison,Assisted medical staff with non-clinical support for patients.,Environment and Animals
+55,Wayne,James,Red Cross,2017-11-01,2018-10-27,Education Assistant,Helped organize community events and facilitated logistics.,Health and Humanitarian Aid
+56,Gloria,Watson,Food Bank,2019-10-15,2020-07-26,Care Assistant,Participated in tree-planting and community gardening projects.,Emergencies and Social Rights
+56,Gloria,Watson,Homeless Shelter,2015-09-24,2016-04-14,Project Manager,Organized workshops for adults on digital literacy.,Emergencies and Social Rights
+56,Gloria,Watson,Scouts Community,2013-02-17,2013-04-11,Organizer,Helped organize community events and facilitated logistics.,Sports and Youth
+57,Roy,Brooks,Human Rights Watch Local Chapter,2019-02-06,2020-04-28,Environmental Advocate,Helped with wildlife rescue and rehabilitation efforts.,Emergencies and Social Rights
+57,Roy,Brooks,Mental Health Support Line,2010-09-07,2011-09-24,Project Manager,Worked with advocacy groups to promote equality and inclusion.,Health and Humanitarian Aid
+58,Frances,Kelly,Environmental Action Group,2015-08-21,2015-11-20,Environmental Advocate,"Tutored children in reading, writing, and mathematics.",Environment and Animals

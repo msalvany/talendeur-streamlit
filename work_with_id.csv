@@ -1,0 +1,197 @@
+candidate_id,first_name,surname,job_title,company,start_date,end_date,still_works_there,full name,duration
+1,John,Smith,Junior Software Developer,TechStart Solutions,2014-06-01,2016-03-15 00:00:00.000000,0,John Smith,1.787816563997262
+1,John,Smith,Full Stack Developer,Digital Innovations Corp,2016-04-01,2019-08-30 00:00:00.000000,0,John Smith,3.4113620807665983
+1,John,Smith,Senior Software Engineer,CloudTech Systems,2019-09-15,2023-12-31 00:00:00.000000,0,John Smith,4.292950034223135
+1,John,Smith,Lead Developer,NextGen Software,2024-01-15,2025-08-31 00:15:09.670572,1,John Smith,1.626283367556468
+2,Sarah,Johnson,Marketing Coordinator,BrandMax Agency,2016-06-01,2018-09-30 00:00:00.000000,0,Sarah Johnson,2.329911019849418
+2,Sarah,Johnson,Digital Marketing Specialist,Growth Marketing Co,2018-10-15,2021-05-20 00:00:00.000000,0,Sarah Johnson,2.595482546201232
+2,Sarah,Johnson,Marketing Manager,E-commerce Solutions,2021-06-01,2025-08-31 00:15:09.670767,1,Sarah Johnson,4.249144421629021
+3,Michael,Brown,Software Engineer,Google,2013-06-01,2015-08-30 00:00:00.000000,0,Michael Brown,2.245037645448323
+3,Michael,Brown,Research Assistant,Stanford AI Lab,2015-09-01,2021-12-15 00:00:00.000000,0,Michael Brown,6.288843258042436
+3,Michael,Brown,Senior AI Researcher,Meta AI,2022-01-15,2025-08-31 00:15:09.670894,1,Michael Brown,3.6249144421629023
+4,Jennifer,Davis,Graphic Designer,Creative Studio Plus,2018-06-01,2020-11-30 00:00:00.000000,0,Jennifer Davis,2.4996577686516086
+4,Jennifer,Davis,UX/UI Designer,TechFlow Design,2020-12-15,2023-07-31 00:00:00.000000,0,Jennifer Davis,2.622861054072553
+4,Jennifer,Davis,Senior UX Designer,Innovation Labs,2023-08-15,2025-08-31 00:15:09.671028,1,Jennifer Davis,2.0451745379876796
+5,Robert,Wilson,Business Analyst,Management Solutions,2009-06-01,2011-12-31 00:00:00.000000,0,Robert Wilson,2.5817932922655715
+5,Robert,Wilson,Project Coordinator,Enterprise Corp,2012-01-15,2014-08-30 00:00:00.000000,0,Robert Wilson,2.622861054072553
+5,Robert,Wilson,Project Manager,Global Projects Inc,2014-09-15,2018-05-20 00:00:00.000000,0,Robert Wilson,3.676933607118412
+5,Robert,Wilson,Senior Project Manager,Strategic Consulting,2018-06-01,2025-08-31 00:15:09.671206,1,Robert Wilson,7.2498288843258045
+6,Lisa,Anderson,Junior Accountant,Anderson & Associates,2013-06-01,2015-03-15 00:00:00.000000,0,Lisa Anderson,1.78507871321013
+6,Lisa,Anderson,Financial Analyst,Investment Group,2015-04-01,2017-09-30 00:00:00.000000,0,Lisa Anderson,2.4996577686516086
+6,Lisa,Anderson,Senior Financial Analyst,Capital Management,2017-10-15,2020-12-31 00:00:00.000000,0,Lisa Anderson,3.2114989733059547
+6,Lisa,Anderson,Finance Manager,Corporate Finance Solutions,2021-01-15,2025-08-31 00:15:09.671333,1,Lisa Anderson,4.6242299794661195
+7,David,Martinez,IT Support Specialist,TechSupport Pro,2015-06-01,2017-01-31 00:00:00.000000,0,David Martinez,1.6700889801505818
+7,David,Martinez,Cloud Solutions Architect,AWS Partners,2017-06-01,2020-03-15 00:00:00.000000,0,David Martinez,2.7871321013004793
+7,David,Martinez,Senior DevOps Engineer,CloudOps Systems,2020-04-01,2025-08-31 00:15:09.671438,1,David Martinez,5.415468856947296
+8,Emma,Taylor,Software Developer,StartUp Tech,2014-06-01,2017-11-30 00:00:00.000000,0,Emma Taylor,3.4989733059548254
+8,Emma,Taylor,Business Analyst,Consulting Group,2018-01-15,2019-05-20 00:00:00.000000,0,Emma Taylor,1.3415468856947297
+8,Emma,Taylor,Product Manager,Innovation Products,2019-06-01,2025-08-31 00:15:09.671543,1,Emma Taylor,6.250513347022587
+9,Christopher,Moore,IT Security Specialist,SecureNet Solutions,2012-06-01,2014-08-31 00:00:00.000000,0,Christopher Moore,2.2477754962354553
+9,Christopher,Moore,Cybersecurity Analyst,Digital Defense Corp,2015-01-01,2018-04-30 00:00:00.000000,0,Christopher Moore,3.326488706365503
+9,Christopher,Moore,Senior Security Consultant,CyberGuard Enterprise,2018-05-15,2025-08-31 00:15:09.671647,1,Christopher Moore,7.29637234770705
+10,Amanda,Garcia,Sales Representative,Business Solutions,2015-06-01,2017-12-31 00:00:00.000000,0,Amanda Garcia,2.5845311430527036
+10,Amanda,Garcia,Senior Sales Executive,Growth Sales Corp,2018-01-15,2021-08-30 00:00:00.000000,0,Amanda Garcia,3.62217659137577
+10,Amanda,Garcia,Sales Manager,Enterprise Sales,2021-09-15,2025-08-31 00:15:09.671749,1,Amanda Garcia,3.9589322381930185
+11,Ryan,Thompson,Mobile App Developer,AppDev Studios,2016-06-01,2018-10-31 00:00:00.000000,0,Ryan Thompson,2.414784394250513
+11,Ryan,Thompson,iOS Developer,Mobile Innovations,2018-11-15,2021-03-20 00:00:00.000000,0,Ryan Thompson,2.3436002737850785
+11,Ryan,Thompson,Senior Mobile Developer,Tech Mobile Solutions,2021-04-01,2025-08-31 00:15:09.671849,1,Ryan Thompson,4.41615331964408
+12,Ashley,White,HR Coordinator,People Solutions,2017-06-01,2019-11-30 00:00:00.000000,0,Ashley White,2.4969199178644765
+12,Ashley,White,HR Specialist,Human Capital Corp,2019-12-15,2022-07-31 00:00:00.000000,0,Ashley White,2.625598904859685
+12,Ashley,White,HR Manager,Strategic HR Solutions,2022-08-15,2025-08-31 00:15:09.671958,1,Ashley White,3.0444900752908968
+13,Kevin,Clark,Business Intelligence Analyst,Data Insights Corp,2018-06-01,2020-09-30 00:00:00.000000,0,Kevin Clark,2.3326488706365502
+13,Kevin,Clark,Senior BI Analyst,Analytics Solutions,2020-10-15,2023-05-20 00:00:00.000000,0,Kevin Clark,2.5927446954141
+13,Kevin,Clark,Data Analytics Manager,Business Intelligence Pro,2023-06-01,2025-08-31 00:15:09.672103,1,Kevin Clark,2.2505133470225873
+14,Michelle,Lewis,Communications Specialist,PR Agency Plus,2015-06-01,2017-12-31 00:00:00.000000,0,Michelle Lewis,2.5845311430527036
+14,Michelle,Lewis,Digital Marketing Specialist,Content Marketing Co,2018-01-15,2021-04-30 00:00:00.000000,0,Michelle Lewis,3.2881587953456535
+14,Michelle,Lewis,Marketing Communications Manager,Brand Strategy Group,2021-05-15,2025-08-31 00:15:09.672229,1,Michelle Lewis,4.295687885010267
+15,Daniel,Walker,QA Tester,Software Testing Corp,2017-06-01,2019-08-31 00:00:00.000000,0,Daniel Walker,2.2477754962354553
+15,Daniel,Walker,Test Automation Engineer,Quality Assurance Pro,2019-09-15,2022-12-20 00:00:00.000000,0,Daniel Walker,3.263518138261465
+15,Daniel,Walker,Senior QA Engineer,Testing Solutions,2023-01-15,2025-08-31 00:15:09.672331,1,Daniel Walker,2.625598904859685
+16,Nicole,Hall,Operations Coordinator,Supply Chain Solutions,2014-06-01,2016-11-30 00:00:00.000000,0,Nicole Hall,2.4996577686516086
+16,Nicole,Hall,Operations Analyst,Logistics Corp,2017-01-15,2019-07-31 00:00:00.000000,0,Nicole Hall,2.537987679671458
+16,Nicole,Hall,Operations Manager,Supply Chain Management,2019-08-15,2025-08-31 00:15:09.672426,1,Nicole Hall,6.04517453798768
+17,Brian,Young,Network Technician,IT Networks Corp,2016-06-01,2018-03-31 00:00:00.000000,0,Brian Young,1.8288843258042438
+17,Brian,Young,Network Engineer,Infrastructure Solutions,2018-04-15,2021-09-30 00:00:00.000000,0,Brian Young,3.460643394934976
+17,Brian,Young,Senior Network Engineer,Enterprise Networks,2021-10-15,2025-08-31 00:15:09.672518,1,Brian Young,3.8767967145790556
+18,Stephanie,King,Graphic Designer,Design Studio Pro,2017-06-01,2019-12-31 00:00:00.000000,0,Stephanie King,2.5817932922655715
+18,Stephanie,King,Senior Graphic Designer,Creative Solutions,2020-01-15,2022-08-30 00:00:00.000000,0,Stephanie King,2.622861054072553
+18,Stephanie,King,Art Director,Brand Design Agency,2022-09-15,2025-08-31 00:15:09.672613,1,Stephanie King,2.9596167008898013
+19,Anthony,Wright,Database Administrator,Data Systems Corp,2015-06-01,2017-10-31 00:00:00.000000,0,Anthony Wright,2.4175222450376452
+19,Anthony,Wright,Senior Database Administrator,Enterprise Data Solutions,2017-11-15,2020-06-30 00:00:00.000000,0,Anthony Wright,2.622861054072553
+19,Anthony,Wright,Database Architect,Data Infrastructure Pro,2020-07-15,2025-08-31 00:15:09.672708,1,Anthony Wright,5.127994524298426
+20,Rachel,Lopez,Customer Success Coordinator,SaaS Solutions,2018-06-01,2020-11-30 00:00:00.000000,0,Rachel Lopez,2.4996577686516086
+20,Rachel,Lopez,Customer Success Manager,CRM Technologies,2020-12-15,2025-08-31 00:15:09.672794,1,Rachel Lopez,4.7091033538672145
+21,Matthew,Hill,Technical Writer,Documentation Solutions,2017-06-01,2019-09-30 00:00:00.000000,0,Matthew Hill,2.329911019849418
+21,Matthew,Hill,Senior Technical Writer,Tech Communications,2019-10-15,2022-05-20 00:00:00.000000,0,Matthew Hill,2.595482546201232
+21,Matthew,Hill,Documentation Manager,API Documentation Pro,2022-06-01,2025-08-31 00:15:09.672888,1,Matthew Hill,3.249828884325804
+22,Lauren,Green,Supply Chain Coordinator,Logistics Solutions,2016-06-01,2018-12-31 00:00:00.000000,0,Lauren Green,2.5817932922655715
+22,Lauren,Green,Supply Chain Analyst,Operations Corp,2019-01-15,2021-08-30 00:00:00.000000,0,Lauren Green,2.622861054072553
+22,Lauren,Green,Supply Chain Manager,Global Supply Solutions,2021-09-15,2025-08-31 00:15:09.673000,1,Lauren Green,3.9589322381930185
+23,Jason,Adams,Cloud Engineer,AWS Solutions,2014-06-01,2016-11-30 00:00:00.000000,0,Jason Adams,2.4996577686516086
+23,Jason,Adams,Senior Cloud Architect,Multi-Cloud Systems,2017-01-15,2020-04-30 00:00:00.000000,0,Jason Adams,3.2881587953456535
+23,Jason,Adams,Principal Cloud Architect,Enterprise Cloud Solutions,2020-05-15,2025-08-31 00:15:09.673152,1,Jason Adams,5.295003422313484
+24,Crystal,Baker,Event Coordinator,Event Planning Pro,2017-06-01,2019-10-31 00:00:00.000000,0,Crystal Baker,2.414784394250513
+24,Crystal,Baker,Senior Event Manager,Hospitality Solutions,2019-11-15,2022-07-20 00:00:00.000000,0,Crystal Baker,2.6776180698151952
+24,Crystal,Baker,Event Operations Manager,Premier Events,2022-08-01,2025-08-31 00:15:09.673280,1,Crystal Baker,3.082819986310746
+25,Tyler,Gonzalez,Digital Marketing Specialist,Social Media Corp,2019-06-01,2021-11-30 00:00:00.000000,0,Tyler Gonzalez,2.4996577686516086
+25,Tyler,Gonzalez,Social Media Manager,Digital Marketing Solutions,2021-12-15,2025-08-31 00:15:09.673372,1,Tyler Gonzalez,3.7097878165639973
+26,Samantha,Nelson,Research Scientist,Materials Research Lab,2011-06-01,2013-08-31 00:00:00.000000,0,Samantha Nelson,2.2505133470225873
+26,Samantha,Nelson,Senior Research Scientist,Advanced Materials Corp,2013-09-15,2021-12-15 00:00:00.000000,0,Samantha Nelson,8.24914442162902
+26,Samantha,Nelson,Principal Research Scientist,Innovation Materials,2022-01-15,2025-08-31 00:15:09.673465,1,Samantha Nelson,3.6249144421629023
+27,Jordan,Carter,Teacher,Elementary School District,2012-06-01,2015-05-31 00:00:00.000000,0,Jordan Carter,2.9952087611225187
+27,Jordan,Carter,Instructional Designer,Education Technology,2015-08-01,2018-12-20 00:00:00.000000,0,Jordan Carter,3.3867214236824092
+27,Jordan,Carter,Education Director,Learning Solutions,2019-01-15,2025-08-31 00:15:09.673558,1,Jordan Carter,6.625598904859685
+28,Victoria,Mitchell,Legal Assistant,Law Firm Associates,2016-06-01,2018-09-30 00:00:00.000000,0,Victoria Mitchell,2.329911019849418
+28,Victoria,Mitchell,Associate Attorney,Intellectual Property Law,2018-10-15,2021-07-31 00:00:00.000000,0,Victoria Mitchell,2.7926078028747434
+28,Victoria,Mitchell,Senior Attorney,Legal Solutions Corp,2021-08-15,2025-08-31 00:15:09.673654,1,Victoria Mitchell,4.043805612594114
+29,Gregory,Perez,Logistics Coordinator,Freight Solutions,2017-06-01,2019-11-30 00:00:00.000000,0,Gregory Perez,2.4969199178644765
+29,Gregory,Perez,Supply Chain Analyst,International Logistics,2019-12-15,2022-05-20 00:00:00.000000,0,Gregory Perez,2.428473648186174
+29,Gregory,Perez,Logistics Manager,Global Freight Corp,2022-06-01,2025-08-31 00:15:09.673749,1,Gregory Perez,3.249828884325804
+30,Melissa,Roberts,Interior Designer,Design Studio Plus,2014-06-01,2017-09-30 00:00:00.000000,0,Melissa Roberts,3.3319644079397674
+30,Melissa,Roberts,Senior Interior Designer,Sustainable Design Solutions,2017-10-15,2020-12-31 00:00:00.000000,0,Melissa Roberts,3.2114989733059547
+30,Melissa,Roberts,Design Manager,Green Building Design,2021-01-15,2025-08-31 00:15:09.673844,1,Melissa Roberts,4.6242299794661195
+31,Stephen,Turner,Mechanical Engineer,Engineering Solutions,2013-06-01,2016-08-31 00:00:00.000000,0,Stephen Turner,3.249828884325804
+31,Stephen,Turner,Product Design Engineer,Innovation Manufacturing,2016-09-15,2019-12-20 00:00:00.000000,0,Stephen Turner,3.260780287474333
+31,Stephen,Turner,Senior Design Engineer,Advanced Products Corp,2020-01-15,2025-08-31 00:15:09.673937,1,Stephen Turner,5.626283367556468
+32,Angela,Phillips,PR Coordinator,Public Relations Agency,2016-06-01,2018-11-30 00:00:00.000000,0,Angela Phillips,2.4969199178644765
+32,Angela,Phillips,Communications Manager,Corporate Communications,2018-12-15,2021-09-30 00:00:00.000000,0,Angela Phillips,2.7926078028747434
+32,Angela,Phillips,Director of Communications,Strategic PR Solutions,2021-10-15,2025-08-31 00:15:09.674041,1,Angela Phillips,3.8767967145790556
+33,Eric,Campbell,Video Editor,Media Production Corp,2015-06-01,2017-12-31 00:00:00.000000,0,Eric Campbell,2.5845311430527036
+33,Eric,Campbell,Motion Graphics Designer,Digital Media Solutions,2018-01-15,2020-08-30 00:00:00.000000,0,Eric Campbell,2.622861054072553
+33,Eric,Campbell,Creative Director,Film Production Pro,2020-09-15,2025-08-31 00:15:09.674154,1,Eric Campbell,4.958247775496235
+34,Sharon,Parker,Staff Accountant,Accounting Solutions,2014-06-01,2017-03-31 00:00:00.000000,0,Sharon Parker,2.830937713894593
+34,Sharon,Parker,Senior Accountant,Financial Services Corp,2017-04-15,2020-11-30 00:00:00.000000,0,Sharon Parker,3.6276522929500343
+34,Sharon,Parker,Accounting Manager,CPA Services Pro,2020-12-15,2025-08-31 00:15:09.674251,1,Sharon Parker,4.7091033538672145
+35,Nathan,Evans,Physical Therapist,Rehabilitation Center,2017-01-01,2020-06-30 00:00:00.000000,0,Nathan Evans,3.4934976043805612
+35,Nathan,Evans,Senior Physical Therapist,Sports Medicine Clinic,2020-07-15,2023-12-31 00:00:00.000000,0,Nathan Evans,3.460643394934976
+35,Nathan,Evans,Clinic Director,Physical Therapy Solutions,2024-01-15,2025-08-31 00:15:09.674344,1,Nathan Evans,1.626283367556468
+36,Deborah,Edwards,Insurance Underwriter,Insurance Solutions,2015-06-01,2018-01-31 00:00:00.000000,0,Deborah Edwards,2.6694045174537986
+36,Deborah,Edwards,Senior Underwriter,Risk Management Corp,2018-02-15,2021-07-30 00:00:00.000000,0,Deborah Edwards,3.4524298425735798
+36,Deborah,Edwards,Underwriting Manager,Commercial Insurance Pro,2021-08-15,2025-08-31 00:15:09.674436,1,Deborah Edwards,4.043805612594114
+37,Carlos,Collins,Environmental Engineer,Engineering Consultants,2016-06-01,2019-04-30 00:00:00.000000,0,Carlos Collins,2.9103353867214237
+37,Carlos,Collins,Senior Environmental Engineer,Green Solutions Corp,2019-05-15,2022-10-31 00:00:00.000000,0,Carlos Collins,3.463381245722108
+37,Carlos,Collins,Environmental Engineering Manager,Sustainability Solutions,2022-11-15,2025-08-31 00:15:09.674533,1,Carlos Collins,2.7926078028747434
+38,Patricia,Stewart,Staff Nurse,General Hospital,2009-06-01,2012-01-31 00:00:00.000000,0,Patricia Stewart,2.6666666666666665
+38,Patricia,Stewart,Nurse Practitioner,Family Medicine Clinic,2012-09-01,2018-05-20 00:00:00.000000,0,Patricia Stewart,5.713894592744696
+38,Patricia,Stewart,Senior Nurse Practitioner,Healthcare Solutions,2018-06-01,2025-08-31 00:15:09.674626,1,Patricia Stewart,7.2498288843258045
+39,Benjamin,Sanchez,Software Engineer,Tech Startup,2007-06-01,2010-03-31 00:00:00.000000,0,Benjamin Sanchez,2.830937713894593
+39,Benjamin,Sanchez,Senior Software Engineer,Enterprise Solutions,2010-04-15,2015-08-30 00:00:00.000000,1,Benjamin Sanchez,5.374401095140315
+39,Benjamin,Sanchez,Enterprise Architect,Software Architecture Corp,2015-09-15,2025-08-31 00:15:09.674719,1,Benjamin Sanchez,9.960301163586584
+40,Cynthia,Morris,Financial Analyst,Investment Banking,2012-06-01,2015-12-31 00:00:00.000000,0,Cynthia Morris,3.5811088295687883
+40,Cynthia,Morris,Senior Financial Analyst,Corporate Finance,2016-01-15,2019-08-30 00:00:00.000000,0,Cynthia Morris,3.62217659137577
+40,Cynthia,Morris,Finance Director,Strategic Finance Solutions,2019-09-15,2025-08-31 00:15:09.674813,1,Cynthia Morris,5.960301163586585
+41,Harold,Rogers,Construction Supervisor,Building Solutions,2008-06-01,2011-11-30 00:00:00.000000,0,Harold Rogers,3.4962354551676933
+41,Harold,Rogers,Project Manager,Construction Corp,2012-01-15,2016-07-31 00:00:00.000000,0,Harold Rogers,4.542094455852156
+41,Harold,Rogers,General Contractor,Rogers Construction,2016-08-15,2025-08-31 00:15:09.674905,1,Harold Rogers,9.043121149897331
+42,Katherine,Reed,Market Research Analyst,Research Solutions,2017-06-01,2020-01-31 00:00:00.000000,0,Katherine Reed,2.6666666666666665
+42,Katherine,Reed,Senior Research Analyst,Market Intelligence Corp,2020-02-15,2023-06-30 00:00:00.000000,0,Katherine Reed,3.370294318959617
+42,Katherine,Reed,Research Manager,Strategic Market Research,2023-07-15,2025-08-31 00:15:09.675005,1,Katherine Reed,2.130047912388775
+43,Dennis,Cook,Industrial Engineer,Manufacturing Solutions,2015-06-01,2017-12-31 00:00:00.000000,0,Dennis Cook,2.5845311430527036
+43,Dennis,Cook,Process Improvement Engineer,Lean Manufacturing Corp,2018-01-15,2021-06-30 00:00:00.000000,0,Dennis Cook,3.455167693360712
+43,Dennis,Cook,Operations Manager,Industrial Engineering Pro,2021-07-15,2025-08-31 00:15:09.675426,1,Dennis Cook,4.128678986995209
+44,Helen,Bailey,Staff Pharmacist,Community Pharmacy,2014-06-01,2017-07-31 00:00:00.000000,0,Helen Bailey,3.164955509924709
+44,Helen,Bailey,Clinical Pharmacist,Geriatric Care Center,2017-08-15,2021-03-20 00:00:00.000000,0,Helen Bailey,3.594798083504449
+44,Helen,Bailey,Pharmacy Manager,Specialized Pharmacy Solutions,2021-04-01,2025-08-31 00:15:09.675578,1,Helen Bailey,4.41615331964408
+45,Lawrence,Rivera,Electrical Engineer,Power Systems Corp,2014-06-01,2017-05-31 00:00:00.000000,0,Lawrence Rivera,2.9979466119096507
+45,Lawrence,Rivera,Telecommunications Engineer,Fiber Optic Solutions,2017-06-15,2020-12-31 00:00:00.000000,0,Lawrence Rivera,3.5455167693360714
+45,Lawrence,Rivera,Senior Telecommunications Engineer,Network Infrastructure Pro,2021-01-15,2025-08-31 00:15:09.675680,1,Lawrence Rivera,4.6242299794661195
+46,Teresa,Cooper,Clinical Research Coordinator,Research Institute,2016-06-01,2019-08-31 00:00:00.000000,0,Teresa Cooper,3.247091033538672
+46,Teresa,Cooper,Clinical Research Manager,Pharmaceutical Research Corp,2019-09-15,2022-11-30 00:00:00.000000,0,Teresa Cooper,3.2087611225188226
+46,Teresa,Cooper,Director of Clinical Research,Biomedical Solutions,2022-12-15,2025-08-31 00:15:09.675778,1,Teresa Cooper,2.7104722792607805
+47,Gerald,Peterson,Real Estate Agent,Property Solutions,2012-05-01,2015-12-31 00:00:00.000000,0,Gerald Peterson,3.6659822039698837
+47,Gerald,Peterson,Commercial Real Estate Broker,Commercial Properties Corp,2016-01-15,2020-06-30 00:00:00.000000,0,Gerald Peterson,4.457221081451061
+47,Gerald,Peterson,Real Estate Investment Manager,Property Investment Solutions,2020-07-15,2025-08-31 00:15:09.675884,1,Gerald Peterson,5.127994524298426
+48,Sandra,Richardson,Elementary Teacher,Public School District,2011-12-15,2016-05-31 00:00:00.000000,0,Sandra Richardson,4.459958932238193
+48,Sandra,Richardson,Curriculum Coordinator,Education Solutions,2016-06-15,2020-08-30 00:00:00.000000,0,Sandra Richardson,4.20807665982204
+48,Sandra,Richardson,Assistant Principal,Elementary Education Pro,2020-09-15,2025-08-31 00:15:09.675991,1,Sandra Richardson,4.958247775496235
+49,Kenneth,Cox,Line Cook,Fine Dining Restaurant,2013-06-01,2015-12-31 00:00:00.000000,0,Kenneth Cox,2.5817932922655715
+49,Kenneth,Cox,Sous Chef,Culinary Solutions,2016-01-15,2019-07-31 00:00:00.000000,0,Kenneth Cox,3.540041067761807
+49,Kenneth,Cox,Executive Chef,Restaurant Management Pro,2019-08-15,2025-08-31 00:15:09.676146,1,Kenneth Cox,6.04517453798768
+50,Donna,Ward,Veterinarian,Animal Hospital,2014-06-01,2017-08-31 00:00:00.000000,0,Donna Ward,3.249828884325804
+50,Donna,Ward,Emergency Veterinarian,Emergency Animal Clinic,2017-09-15,2021-12-20 00:00:00.000000,0,Donna Ward,4.262833675564682
+50,Donna,Ward,Veterinary Director,Animal Care Solutions,2022-01-15,2025-08-31 00:15:09.676264,1,Donna Ward,3.6249144421629023
+51,Arthur,Torres,Electrical Engineer,Power Generation Corp,2012-06-01,2015-05-31 00:00:00.000000,0,Arthur Torres,2.9952087611225187
+51,Arthur,Torres,Power Systems Engineer,Electrical Solutions,2015-06-15,2019-12-31 00:00:00.000000,0,Arthur Torres,4.544832306639288
+51,Arthur,Torres,Senior Power Systems Engineer,Energy Solutions Pro,2020-01-15,2025-08-31 00:15:09.676361,1,Arthur Torres,5.626283367556468
+52,Cheryl,Peterson,Social Worker,Community Services,2013-12-15,2017-06-30 00:00:00.000000,0,Cheryl Peterson,3.540041067761807
+52,Cheryl,Peterson,Clinical Social Worker,Mental Health Solutions,2017-07-15,2021-08-31 00:00:00.000000,0,Cheryl Peterson,4.128678986995209
+52,Cheryl,Peterson,Director of Social Services,Behavioral Health Corp,2021-09-15,2025-08-31 00:15:09.676456,1,Cheryl Peterson,3.9589322381930185
+53,Ralph,Gray,Police Officer,City Police Department,2009-07-01,2015-12-31 00:00:00.000000,0,Ralph Gray,6.499657768651608
+53,Ralph,Gray,Detective,Criminal Investigation Division,2016-01-15,2020-05-20 00:00:00.000000,0,Ralph Gray,4.344969199178645
+53,Ralph,Gray,Detective Sergeant,Law Enforcement Solutions,2020-06-01,2025-08-31 00:15:09.676547,1,Ralph Gray,5.248459958932238
+54,Janice,Ramirez,Marketing Coordinator,Digital Marketing Corp,2018-06-01,2020-11-30 00:00:00.000000,0,Janice Ramirez,2.4996577686516086
+54,Janice,Ramirez,Marketing Automation Specialist,Growth Marketing Solutions,2020-12-15,2025-08-31 00:15:09.676631,1,Janice Ramirez,4.7091033538672145
+55,Wayne,James,Truck Driver,Transportation Solutions,2005-06-01,2012-12-31 00:00:00.000000,0,Wayne James,7.58384668035592
+55,Wayne,James,Fleet Safety Coordinator,Logistics Corp,2013-01-15,2018-07-31 00:00:00.000000,0,Wayne James,5.538672142368241
+55,Wayne,James,Transportation Manager,Freight Solutions Pro,2018-08-15,2025-08-31 00:15:09.676727,1,Wayne James,7.044490075290897
+56,Gloria,Watson,Administrative Assistant,Business Solutions,2012-06-01,2017-01-31 00:00:00.000000,0,Gloria Watson,4.6680355920602326
+56,Gloria,Watson,Office Manager,Professional Services Corp,2017-02-15,2021-05-20 00:00:00.000000,0,Gloria Watson,4.257357973990418
+56,Gloria,Watson,Operations Coordinator,Administrative Solutions,2021-06-01,2025-08-31 00:15:09.676818,1,Gloria Watson,4.249144421629021
+57,Roy,Brooks,HVAC Technician,Climate Control Solutions,2011-06-01,2015-12-31 00:00:00.000000,0,Roy Brooks,4.583162217659138
+57,Roy,Brooks,Senior HVAC Technician,Energy Efficiency Corp,2016-01-15,2020-06-30 00:00:00.000000,0,Roy Brooks,4.457221081451061
+57,Roy,Brooks,HVAC Service Manager,Commercial HVAC Solutions,2020-07-15,2025-08-31 00:15:09.676910,1,Roy Brooks,5.127994524298426
+58,Frances,Kelly,Librarian,Public Library System,2014-12-15,2019-08-31 00:00:00.000000,0,Frances Kelly,4.7091033538672145
+58,Frances,Kelly,Information Services Manager,Digital Library Solutions,2019-09-15,2025-08-31 00:15:09.677036,1,Frances Kelly,5.960301163586585
+59,Eugene,Sanders,Firefighter,City Fire Department,2007-09-01,2015-12-31 00:00:00.000000,0,Eugene Sanders,8.331279945242985
+59,Eugene,Sanders,Fire Lieutenant,Emergency Services Corp,2016-01-15,2021-07-31 00:00:00.000000,0,Eugene Sanders,5.541409993155373
+59,Eugene,Sanders,Fire Captain,Hazmat Response Solutions,2021-08-15,2025-08-31 00:15:09.677154,1,Eugene Sanders,4.043805612594114
+60,Marie,Price,Physical Education Teacher,School District,2013-12-15,2018-05-31 00:00:00.000000,0,Marie Price,4.457221081451061
+60,Marie,Price,Sports Medicine Coordinator,Athletic Training Solutions,2018-06-15,2022-07-31 00:00:00.000000,0,Marie Price,4.125941136208077
+60,Marie,Price,Athletic Director,Sports Medicine Pro,2022-08-15,2025-08-31 00:15:09.677251,1,Marie Price,3.0444900752908968
+61,Louis,Bennett,Welder,Manufacturing Corp,2007-06-01,2012-12-31 00:00:00.000000,0,Louis Bennett,5.585215605749487
+61,Louis,Bennett,Certified Welder,Industrial Solutions,2013-01-15,2018-06-30 00:00:00.000000,0,Louis Bennett,5.453798767967146
+61,Louis,Bennett,Welding Supervisor,Pipeline Construction Pro,2018-07-15,2025-08-31 00:15:09.677344,1,Louis Bennett,7.129363449691992
+62,Doris,Wood,Dental Hygienist,Family Dental Practice,2016-05-01,2020-12-31 00:00:00.000000,0,Doris Wood,4.6680355920602326
+62,Doris,Wood,Senior Dental Hygienist,Dental Care Solutions,2021-01-15,2025-08-31 00:15:09.677428,1,Doris Wood,4.6242299794661195
+63,Albert,Barnes,Construction Worker,Building Corp,2003-06-01,2008-12-31 00:00:00.000000,0,Albert Barnes,5.585215605749487
+63,Albert,Barnes,Master Carpenter,Construction Solutions,2009-01-15,2015-08-30 00:00:00.000000,0,Albert Barnes,6.620123203285421
+63,Albert,Barnes,Construction Foreman,Carpentry Pro,2015-09-15,2025-08-31 00:15:09.677519,1,Albert Barnes,9.960301163586584
+64,Lillian,Ross,Bank Teller,Community Bank,2016-06-01,2019-04-30 00:00:00.000000,0,Lillian Ross,2.9103353867214237
+64,Lillian,Ross,Customer Service Representative,Banking Solutions,2019-05-15,2022-12-20 00:00:00.000000,0,Lillian Ross,3.600273785078713
+64,Lillian,Ross,Branch Operations Supervisor,Financial Services Pro,2023-01-15,2025-08-31 00:15:09.677610,1,Lillian Ross,2.625598904859685
+65,Jose,Henderson,Automotive Technician,Auto Repair Shop,2010-06-01,2015-01-31 00:00:00.000000,0,Jose Henderson,4.6680355920602326
+65,Jose,Henderson,Master Automotive Technician,Car Service Solutions,2015-02-15,2020-12-31 00:00:00.000000,0,Jose Henderson,5.87542778918549
+65,Jose,Henderson,Service Manager,Hybrid Vehicle Solutions,2021-01-15,2025-08-31 00:15:09.677702,1,Jose Henderson,4.6242299794661195
+66,Annie,Coleman,Cosmetologist,Beauty Salon,2009-06-01,2015-05-31 00:00:00.000000,0,Annie Coleman,5.9958932238193015
+66,Annie,Coleman,Senior Stylist,Hair Color Specialists,2015-06-15,2020-12-31 00:00:00.000000,0,Annie Coleman,5.546885694729637
+66,Annie,Coleman,Salon Owner,Beauty Business Solutions,2021-01-15,2025-08-31 00:15:09.677791,1,Annie Coleman,4.6242299794661195

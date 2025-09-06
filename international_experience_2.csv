@@ -1,0 +1,141 @@
+candidate_id,country_of_residence,type_of_experience_abroad,country_of_experience,time_abroad,country_of_origin,cultural_heritage
+1,Argentina,studied-worked,Italy,10y,Argentina,Colombian-Swiss
+1,Argentina,studied-worked,China,1y,Argentina,Colombian-Swiss
+2,Mexico,worked-lived,Spain,5y,Saudi Arabia,Emirati
+3,Switzerland,worked-lived,Peru,1y,Spain,French
+3,Switzerland,worked,United Arab Emirates,6m,Spain,French
+3,Switzerland,studied,Mexico,2y,Spain,French
+4,Argentina,worked,Egypt,10y,Argentina,Indian-Australian
+5,Nigeria,studied-worked-lived,Spain,1y,Italy,Swedish
+6,Turkey,studied-lived,Chile,10y,Turkey,Saudi-Chinese
+6,Turkey,worked,South Africa,3y,Turkey,Saudi-Chinese
+6,Turkey,worked-lived,Nigeria,10y,Turkey,Saudi-Chinese
+7,Italy,studied-worked,Poland,10y,Italy,Japanese-Argentine
+8,Japan,studied-worked,South Korea,10y,Germany,Argentine-Chinese
+9,United Kingdom,worked-lived,Egypt,2y,United Kingdom,Dutch-Korean
+9,United Kingdom,studied-worked-lived,Japan,2y,United Kingdom,Dutch-Korean
+10,Australia,studied-worked,United Arab Emirates,3y,Japan,Argentine
+10,Australia,lived,India,3y,Japan,Argentine
+10,Australia,studied-lived,South Korea,10y,Japan,Argentine
+11,Sweden,worked,South Korea,1y,United Kingdom,Chinese
+12,Nigeria,worked-lived,South Africa,1y,Nigeria,Argentine
+13,Canada,worked-lived,Colombia,2y,Canada,Russian
+14,Egypt,studied,Netherlands,6m,India,Emirati
+15,Japan,studied-worked,Sweden,2y,Japan,Portuguese-South African
+16,Japan,studied-lived,Nigeria,3y,Japan,British
+17,France,studied-worked,Poland,1y,Colombia,Polish-Egyptian
+17,France,studied-lived,Canada,2y,Colombia,Polish-Egyptian
+18,Italy,studied-worked,Canada,3y,Switzerland,Brazilian
+18,Italy,studied-lived,Poland,2y,Switzerland,Brazilian
+18,Italy,studied-lived,Japan,6m,Switzerland,Brazilian
+19,France,studied-worked,Spain,3y,France,Argentine-Korean
+19,France,studied-lived,South Korea,1y,France,Argentine-Korean
+20,Spain,worked,Chile,5y,Spain,Chilean-Spanish
+20,Spain,studied-worked-lived,China,10y,Spain,Chilean-Spanish
+20,Spain,studied,United States,6m,Spain,Chilean-Spanish
+21,Egypt,studied-worked-lived,Nigeria,1y,Russia,Colombian-Italian
+21,Egypt,worked,Japan,6m,Russia,Colombian-Italian
+22,Mexico,studied-worked,Switzerland,2y,Mexico,Indian
+22,Mexico,worked-lived,Italy,1y,Mexico,Indian
+23,Canada,studied-worked-lived,Germany,6m,Canada,Colombian
+23,Canada,studied,Russia,5y,Canada,Colombian
+23,Canada,studied,Brazil,6m,Canada,Colombian
+24,Poland,studied-lived,China,5y,Poland,Emirati-Egyptian
+24,Poland,studied-lived,South Korea,2y,Poland,Emirati-Egyptian
+24,Poland,worked-lived,Netherlands,5y,Poland,Emirati-Egyptian
+25,Egypt,studied-worked,United States,5y,Chile,Saudi
+25,Egypt,worked,Spain,5y,Chile,Saudi
+26,United Kingdom,studied-worked-lived,Russia,10y,United Kingdom,Polish
+27,Colombia,worked,Nigeria,6m,Japan,Emirati
+27,Colombia,studied-lived,United Arab Emirates,6m,Japan,Emirati
+27,Colombia,studied,Italy,6m,Japan,Emirati
+28,South Africa,worked-lived,Japan,2y,South Africa,Canadian
+29,Egypt,lived,Brazil,5y,Canada,German-Canadian
+29,Egypt,lived,United States,2y,Canada,German-Canadian
+29,Egypt,studied-lived,China,5y,Canada,German-Canadian
+30,Egypt,studied,United Kingdom,2y,Egypt,French-Spanish
+30,Egypt,worked-lived,United Arab Emirates,5y,Egypt,French-Spanish
+30,Egypt,studied-worked-lived,Portugal,3y,Egypt,French-Spanish
+31,South Korea,lived,Switzerland,5y,South Korea,German
+32,Peru,studied,Peru,6m,Japan,Argentine
+32,Peru,studied-lived,Spain,3y,Japan,Argentine
+32,Peru,worked-lived,Switzerland,5y,Japan,Argentine
+33,Nigeria,studied,Turkey,3y,United Kingdom,Saudi
+34,France,lived,India,3y,France,Dutch
+34,France,studied-worked,Brazil,10y,France,Dutch
+35,United Arab Emirates,studied-lived,India,5y,Egypt,Portuguese
+36,Italy,studied-worked,Italy,3y,Poland,Italian
+36,Italy,worked,Peru,2y,Poland,Italian
+36,Italy,studied,Mexico,3y,Poland,Italian
+37,India,studied,Portugal,1y,India,French
+37,India,studied-lived,Colombia,5y,India,French
+37,India,studied,Japan,10y,India,French
+38,Peru,studied,South Africa,6m,Peru,Peruvian-German
+38,Peru,worked,Mexico,2y,Peru,Peruvian-German
+38,Peru,studied,Russia,10y,Peru,Peruvian-German
+39,Portugal,studied-worked,South Korea,3y,Italy,Peruvian-British
+39,Portugal,worked,Turkey,5y,Italy,Peruvian-British
+40,Germany,studied,China,1y,Germany,Turkish
+40,Germany,studied-worked,United Arab Emirates,3y,Germany,Turkish
+40,Germany,worked-lived,Italy,3y,Germany,Turkish
+41,United States,worked,Italy,1y,United States,Japanese-Canadian
+41,United States,studied-worked-lived,France,10y,United States,Japanese-Canadian
+41,United States,studied-lived,Egypt,2y,United States,Japanese-Canadian
+42,Switzerland,worked-lived,Chile,3y,Switzerland,Brazilian
+42,Switzerland,studied-worked,United Arab Emirates,3y,Switzerland,Brazilian
+43,United States,worked-lived,South Africa,1y,Argentina,Emirati-South African
+43,United States,worked-lived,Chile,10y,Argentina,Emirati-South African
+43,United States,lived,Japan,6m,Argentina,Emirati-South African
+44,Turkey,worked,South Africa,5y,Poland,Mexican-French
+44,Turkey,studied-lived,Chile,10y,Poland,Mexican-French
+44,Turkey,worked,Peru,1y,Poland,Mexican-French
+45,Japan,worked,Chile,1y,Japan,Peruvian
+45,Japan,worked-lived,United Kingdom,6m,Japan,Peruvian
+45,Japan,studied-lived,Italy,2y,Japan,Peruvian
+46,Brazil,studied,China,2y,Australia,Mexican
+47,Mexico,studied,United States,6m,Russia,Nigerian
+47,Mexico,studied-worked,Japan,1y,Russia,Nigerian
+47,Mexico,studied-worked-lived,Switzerland,5y,Russia,Nigerian
+48,Portugal,worked,Canada,1y,India,British-Chinese
+48,Portugal,worked-lived,Peru,3y,India,British-Chinese
+48,Portugal,worked,Colombia,3y,India,British-Chinese
+49,Argentina,lived,Turkey,2y,Nigeria,Chinese
+49,Argentina,worked,Brazil,3y,Nigeria,Chinese
+50,Sweden,lived,Colombia,6m,Sweden,Mexican-Colombian
+50,Sweden,studied-lived,Nigeria,2y,Sweden,Mexican-Colombian
+50,Sweden,studied,United Kingdom,2y,Sweden,Mexican-Colombian
+51,United Kingdom,lived,Russia,2y,China,Egyptian-Colombian
+51,United Kingdom,worked,Switzerland,5y,China,Egyptian-Colombian
+51,United Kingdom,lived,Turkey,10y,China,Egyptian-Colombian
+52,Chile,studied-worked,Peru,10y,Netherlands,Korean
+52,Chile,worked-lived,Colombia,3y,Netherlands,Korean
+52,Chile,studied-lived,Egypt,6m,Netherlands,Korean
+53,India,worked-lived,Switzerland,1y,India,Turkish
+54,China,studied-worked,Netherlands,2y,China,Japanese
+54,China,lived,Argentina,6m,China,Japanese
+54,China,studied,South Korea,2y,China,Japanese
+55,Saudi Arabia,studied-worked,France,5y,Saudi Arabia,Japanese
+55,Saudi Arabia,worked,Canada,2y,Saudi Arabia,Japanese
+56,Argentina,worked-lived,France,5y,Argentina,South African
+57,Switzerland,studied-lived,Japan,5y,France,Colombian
+57,Switzerland,worked-lived,United Arab Emirates,6m,France,Colombian
+57,Switzerland,studied-worked-lived,United States,2y,France,Colombian
+58,Canada,worked-lived,Brazil,1y,Canada,Turkish
+58,Canada,lived,Italy,6m,Canada,Turkish
+59,Peru,worked-lived,United Kingdom,10y,Russia,Swedish
+60,Colombia,studied-worked,India,2y,Colombia,Swiss-Dutch
+60,Colombia,studied,Portugal,3y,Colombia,Swiss-Dutch
+61,United Arab Emirates,studied,China,1y,United Arab Emirates,Portuguese
+62,Nigeria,studied-worked,Turkey,1y,Nigeria,Nigerian
+62,Nigeria,studied-worked-lived,South Korea,3y,Nigeria,Nigerian
+62,Nigeria,studied-worked,France,3y,Nigeria,Nigerian
+63,Chile,studied-worked-lived,Portugal,10y,Chile,Chinese
+63,Chile,worked,Nigeria,2y,Chile,Chinese
+63,Chile,worked-lived,Switzerland,10y,Chile,Chinese
+64,South Korea,worked,India,1y,Colombia,British
+64,South Korea,studied-worked-lived,Chile,1y,Colombia,British
+65,United States,studied-lived,United Arab Emirates,2y,Mexico,Russian
+65,United States,worked-lived,France,6m,Mexico,Russian
+65,United States,studied-lived,Canada,2y,Mexico,Russian
+66,Russia,lived,Canada,10y,Russia,Chilean-Peruvian
+66,Russia,lived,Switzerland,10y,Russia,Chilean-Peruvian

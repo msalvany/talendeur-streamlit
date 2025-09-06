@@ -1,0 +1,203 @@
+candidate_id,first_name,surname,course_name,certification_type,date_attained,details
+1,John,Smith,AWS Certified Solutions Architect,Technical,2018-03-15,Cloud architecture design patterns and best practices for scalable applications
+1,John,Smith,Agile Scrum Master,Project Management,2019-07-22,Scrum framework implementation and team facilitation methodologies
+1,John,Smith,Spanish Intermediate,Language,2020-11-08,Conversational Spanish for business and technical communication
+2,Sarah,Johnson,Google Analytics Certified,Technical,2017-09-14,Web analytics implementation and data-driven marketing strategies
+2,Sarah,Johnson,Project Management Professional (PMP),Project Management,2020-02-28,Project lifecycle management and stakeholder communication best practices
+2,Sarah,Johnson,French Advanced,Language,2021-06-18,Business French communication and marketing terminology
+3,Michael,Brown,TensorFlow Developer Certificate,Technical,2020-08-12,Machine learning model development and deployment using TensorFlow framework
+3,Michael,Brown,Leadership Excellence Program,Leadership,2022-03-25,Strategic leadership development and team management principles
+3,Michael,Brown,Mandarin Business Level,Language,2023-01-10,Technical and business communication in Mandarin Chinese
+4,Jennifer,Davis,Adobe Certified Expert Photoshop,Technical,2019-05-20,Advanced image editing and digital design techniques
+4,Jennifer,Davis,UX Design Certification,Technical,2021-04-16,User experience research methodologies and interface design principles
+4,Jennifer,Davis,Italian Conversational,Language,2022-09-12,Creative and design terminology in Italian language
+5,Robert,Wilson,Certified Associate in Project Management,Project Management,2015-11-30,Project coordination and resource management fundamentals
+5,Robert,Wilson,Six Sigma Green Belt,Process Improvement,2017-08-14,Quality management and process optimization methodologies
+5,Robert,Wilson,Executive Leadership Certificate,Leadership,2019-12-05,Strategic decision-making and organizational leadership skills
+5,Robert,Wilson,German Business Level,Language,2021-07-20,International business communication and project management terminology
+6,Lisa,Anderson,Chartered Financial Analyst (CFA) Level II,Financial,2018-06-15,Investment analysis and portfolio management advanced techniques
+6,Lisa,Anderson,Financial Risk Manager (FRM),Financial,2019-09-28,Risk assessment and mitigation strategies in financial markets
+6,Lisa,Anderson,Leadership in Finance Certificate,Leadership,2020-11-12,Financial team leadership and strategic planning methodologies
+7,David,Martinez,Kubernetes Certified Administrator,Technical,2018-09-25,Container orchestration and cluster management best practices
+7,David,Martinez,DevOps Foundation Certificate,Technical,2020-01-18,Continuous integration and deployment pipeline optimization
+7,David,Martinez,Portuguese Intermediate,Language,2021-05-14,Technical documentation and system administration terminology
+8,Emma,Taylor,Product Management Certificate,Business,2019-08-30,Product lifecycle management and market analysis techniques
+8,Emma,Taylor,MBA Leadership Module,Leadership,2020-10-22,Strategic business leadership and cross-functional team management
+8,Emma,Taylor,Japanese Business Basic,Language,2022-03-08,International business etiquette and product development terminology
+9,Christopher,Moore,Certified Information Systems Security Professional,Technical,2016-12-10,Advanced cybersecurity frameworks and incident response protocols
+9,Christopher,Moore,Certified Ethical Hacker,Technical,2018-04-25,Penetration testing methodologies and vulnerability assessment techniques
+9,Christopher,Moore,Crisis Management Leadership,Leadership,2019-11-18,Security incident leadership and organizational crisis response
+9,Christopher,Moore,Russian Technical,Language,2021-08-16,Cybersecurity and technical terminology in Russian language
+10,Amanda,Garcia,Certified Sales Professional,Business,2018-07-12,Advanced sales techniques and customer relationship management
+10,Amanda,Garcia,Negotiation Skills Mastery,Business,2020-02-14,Strategic negotiation and conflict resolution methodologies
+10,Amanda,Garcia,Mandarin Conversational,Language,2021-12-03,Sales and business development terminology in Mandarin
+11,Ryan,Thompson,iOS Developer Certification,Technical,2017-11-28,Mobile application development and App Store optimization techniques
+11,Ryan,Thompson,Android Developer Associate,Technical,2019-03-15,Native Android development and Google Play deployment strategies
+11,Ryan,Thompson,Agile Mobile Development,Project Management,2020-09-10,Mobile project management and cross-platform development coordination
+11,Ryan,Thompson,Korean Basic,Language,2022-01-25,Mobile technology and development terminology in Korean
+12,Ashley,White,Professional in Human Resources (PHR),HR,2019-08-20,Employment law compliance and human resources best practices
+12,Ashley,White,Certified Compensation Professional,HR,2021-04-12,Compensation analysis and benefits administration methodologies
+12,Ashley,White,Leadership in People Management,Leadership,2022-07-08,Employee engagement and organizational development strategies
+13,Kevin,Clark,Tableau Desktop Certified Associate,Technical,2019-11-15,Data visualization and business intelligence dashboard creation
+13,Kevin,Clark,Microsoft Power BI Certification,Technical,2021-06-22,Advanced analytics and self-service business intelligence tools
+13,Kevin,Clark,Spanish Business Level,Language,2022-10-18,Data analysis and business intelligence terminology in Spanish
+14,Michelle,Lewis,Google Ads Certification,Technical,2018-05-30,Digital advertising campaign management and optimization strategies
+14,Michelle,Lewis,Content Marketing Institute Certificate,Marketing,2020-01-25,Content strategy development and audience engagement techniques
+14,Michelle,Lewis,French Marketing Professional,Language,2021-11-14,Marketing and communications terminology in French language
+15,Daniel,Walker,ISTQB Foundation Level,Technical,2018-12-08,Software testing fundamentals and quality assurance methodologies
+15,Daniel,Walker,Selenium WebDriver Certification,Technical,2020-07-16,Test automation frameworks and continuous testing practices
+15,Daniel,Walker,German Technical,Language,2022-04-20,Software testing and quality assurance terminology in German
+16,Nicole,Hall,Certified Supply Chain Professional,Operations,2017-10-12,Supply chain optimization and logistics management best practices
+16,Nicole,Hall,Lean Six Sigma Yellow Belt,Process Improvement,2019-05-28,Process improvement and waste reduction methodologies
+16,Nicole,Hall,Portuguese Business,Language,2021-03-22,Supply chain and logistics terminology in Portuguese language
+17,Brian,Young,Cisco Certified Network Professional (CCNP),Technical,2019-02-14,Advanced networking protocols and enterprise infrastructure management
+17,Brian,Young,VMware Certified Professional,Technical,2020-08-05,Virtualization technologies and data center management solutions
+17,Brian,Young,Project Management for IT,Project Management,2021-12-10,Technology project coordination and infrastructure deployment planning
+18,Stephanie,King,Adobe Certified Expert InDesign,Technical,2018-11-25,Professional layout design and print production workflows
+18,Stephanie,King,Brand Strategy Certificate,Marketing,2020-06-18,Brand development and visual identity design methodologies
+18,Stephanie,King,Italian Design Professional,Language,2022-02-14,Art and design terminology in Italian creative industries
+19,Anthony,Wright,Oracle Database Administrator Certified,Technical,2017-08-22,Database optimization and enterprise data management strategies
+19,Anthony,Wright,Microsoft SQL Server Specialist,Technical,2019-01-30,Advanced database administration and performance tuning techniques
+19,Anthony,Wright,Data Governance Certificate,Technical,2021-05-12,Data quality management and compliance framework implementation
+20,Rachel,Lopez,Salesforce Administrator Certification,Technical,2019-12-16,CRM configuration and customer success workflow optimization
+20,Rachel,Lopez,Customer Success Manager Certificate,Business,2021-07-25,Client relationship management and retention strategy development
+20,Rachel,Lopez,Spanish Customer Service,Language,2022-09-08,Customer support and relationship management in Spanish language
+21,Matthew,Hill,Technical Writing Certification,Technical,2018-09-12,API documentation and software manual creation best practices
+21,Matthew,Hill,Information Architecture Certificate,Technical,2020-04-28,Content organization and user experience documentation design
+21,Matthew,Hill,German Technical Writing,Language,2021-10-15,Technical documentation and software terminology in German language
+22,Lauren,Green,Certified Professional in Supply Management,Operations,2018-03-20,Strategic sourcing and supplier relationship management techniques
+22,Lauren,Green,SAP Supply Chain Certification,Technical,2019-11-08,Enterprise resource planning and supply chain optimization
+22,Lauren,Green,Mandarin Supply Chain,Language,2021-06-25,International trade and supply chain terminology in Mandarin
+23,Jason,Adams,AWS Solutions Architect Professional,Technical,2018-01-18,Advanced cloud architecture and multi-cloud deployment strategies
+23,Jason,Adams,Microsoft Azure Solutions Architect,Technical,2019-09-25,Hybrid cloud solutions and enterprise migration methodologies
+23,Jason,Adams,Google Cloud Professional Architect,Technical,2020-12-14,Cloud-native applications and containerization best practices
+23,Jason,Adams,DevOps Leadership Certificate,Leadership,2022-05-10,Technical team leadership and cloud transformation management
+24,Crystal,Baker,Certified Meeting Professional (CMP),Events,2019-03-28,Professional event planning and hospitality industry best practices
+24,Crystal,Baker,Wedding Planning Certification,Events,2020-08-15,Specialized event coordination and vendor management techniques
+24,Crystal,Baker,French Hospitality,Language,2021-12-20,Event planning and hospitality terminology in French language
+25,Tyler,Gonzalez,Facebook Blueprint Certification,Technical,2020-07-12,Social media advertising and digital marketing campaign optimization
+25,Tyler,Gonzalez,HubSpot Content Marketing,Marketing,2021-11-05,Inbound marketing and content strategy development methodologies
+25,Tyler,Gonzalez,Spanish Digital Marketing,Language,2022-08-18,Digital marketing and social media terminology in Spanish language
+26,Samantha,Nelson,Project Management Professional (PMP),Project Management,2014-05-20,Research project coordination and cross-functional team leadership
+26,Samantha,Nelson,Materials Science Leadership,Leadership,2018-09-15,Technical team management and research development strategies
+26,Samantha,Nelson,German Materials Science,Language,2020-03-12,Materials engineering and research terminology in German language
+27,Jordan,Carter,Certified Professional in Learning and Performance,Education,2016-11-18,Adult learning methodologies and instructional design best practices
+27,Jordan,Carter,Educational Leadership Certificate,Leadership,2019-04-25,Academic administration and curriculum development management
+27,Jordan,Carter,Spanish Education Professional,Language,2021-07-14,Educational terminology and teaching methodologies in Spanish
+28,Victoria,Mitchell,Certified Intellectual Property Professional,Legal,2018-08-30,Patent law and intellectual property portfolio management strategies
+28,Victoria,Mitchell,Contract Negotiation Certification,Legal,2020-02-18,Legal contract analysis and business negotiation techniques
+28,Victoria,Mitchell,French Legal Professional,Language,2021-10-22,Legal terminology and international law in French language
+29,Gregory,Perez,Certified Transportation Professional,Operations,2019-06-12,International freight management and logistics optimization strategies
+29,Gregory,Perez,Customs Brokerage Certification,Operations,2020-11-28,Import/export regulations and customs compliance procedures
+29,Gregory,Perez,Spanish International Trade,Language,2022-04-15,International logistics and trade terminology in Spanish language
+30,Melissa,Roberts,LEED Accredited Professional,Technical,2017-12-05,Sustainable building design and green construction methodologies
+30,Melissa,Roberts,Interior Design Leadership,Leadership,2020-08-20,Design team management and client relationship strategies
+30,Melissa,Roberts,Italian Design Professional,Language,2022-01-18,Interior design and architecture terminology in Italian language
+31,Stephen,Turner,AutoCAD Professional Certification,Technical,2017-03-25,Advanced computer-aided design and engineering drawing techniques
+31,Stephen,Turner,SolidWorks Professional,Technical,2019-07-18,3D modeling and mechanical design simulation methodologies
+31,Stephen,Turner,German Engineering,Language,2021-09-10,Engineering and manufacturing terminology in German language
+32,Angela,Phillips,Accredited Public Relations (APR),Communications,2019-02-14,Strategic communications and crisis management best practices
+32,Angela,Phillips,Digital Communications Certificate,Communications,2021-05-28,Social media strategy and online reputation management techniques
+32,Angela,Phillips,Spanish Communications,Language,2022-11-12,Public relations and communications terminology in Spanish language
+33,Eric,Campbell,Adobe Certified Expert After Effects,Technical,2018-10-20,Advanced motion graphics and video post-production techniques
+33,Eric,Campbell,Final Cut Pro Certification,Technical,2020-03-15,Professional video editing and color correction workflows
+33,Eric,Campbell,French Film Production,Language,2021-08-25,Film and media production terminology in French language
+34,Sharon,Parker,Certified Public Accountant (CPA),Financial,2016-04-12,Advanced accounting principles and financial reporting standards
+34,Sharon,Parker,QuickBooks ProAdvisor,Technical,2018-09-08,Small business accounting software and financial management systems
+34,Sharon,Parker,Spanish Accounting Professional,Language,2020-12-15,Accounting and financial terminology in Spanish language
+35,Nathan,Evans,Board Certified Clinical Specialist,Medical,2018-11-22,Advanced physical therapy techniques and clinical specialization
+35,Nathan,Evans,Sports Performance Certification,Medical,2020-06-18,Athletic training and sports medicine rehabilitation protocols
+35,Nathan,Evans,Spanish Medical Professional,Language,2022-02-28,Medical and rehabilitation terminology in Spanish language
+36,Deborah,Edwards,Associate in Risk Management (ARM),Insurance,2017-07-15,Risk assessment and commercial insurance underwriting techniques
+36,Deborah,Edwards,Certified Insurance Counselor,Insurance,2019-12-08,Insurance product development and client advisory services
+36,Deborah,Edwards,French Insurance Professional,Language,2021-04-20,Insurance and risk management terminology in French language
+37,Carlos,Collins,Professional Engineer (PE) License,Technical,2018-02-25,Environmental engineering design and regulatory compliance standards
+37,Carlos,Collins,LEED Green Associate,Technical,2020-09-12,Sustainable engineering practices and environmental impact assessment
+37,Carlos,Collins,Spanish Environmental Engineering,Language,2022-06-08,Environmental science and engineering terminology in Spanish language
+38,Patricia,Stewart,Nurse Practitioner Board Certification,Medical,2013-05-18,Advanced practice nursing and family medicine specialization
+38,Patricia,Stewart,Basic Life Support Instructor,Medical,2016-08-25,Emergency response training and life support certification programs
+38,Patricia,Stewart,Spanish Medical Professional,Language,2019-11-12,Medical terminology and patient care in Spanish language
+39,Benjamin,Sanchez,Enterprise Architecture Certification,Technical,2016-09-20,System architecture design and enterprise integration strategies
+39,Benjamin,Sanchez,TOGAF Architecture Framework,Technical,2018-12-15,Architecture governance and business-IT alignment methodologies
+39,Benjamin,Sanchez,Technical Leadership Certificate,Leadership,2020-07-22,Software development team leadership and project management
+40,Cynthia,Morris,Chartered Financial Analyst (CFA),Financial,2016-06-18,Investment analysis and portfolio management professional standards
+40,Cynthia,Morris,Financial Planning Certificate,Financial,2018-11-25,Personal financial planning and wealth management strategies
+40,Cynthia,Morris,German Financial Services,Language,2021-03-15,Finance and investment terminology in German language
+41,Harold,Rogers,General Contractor License,Technical,2010-04-15,Construction project management and building code compliance
+41,Harold,Rogers,OSHA 30-Hour Construction,Safety,2014-08-22,Workplace safety management and construction hazard prevention
+41,Harold,Rogers,Spanish Construction Management,Language,2018-12-08,Construction and building terminology in Spanish language
+42,Katherine,Reed,Market Research Society Certification,Business,2019-07-25,Consumer behavior analysis and market intelligence methodologies
+42,Katherine,Reed,Advanced Statistical Analysis,Technical,2021-02-18,Statistical modeling and data analysis techniques for research
+42,Katherine,Reed,German Market Research,Language,2022-09-14,Market research and statistics terminology in German language
+43,Dennis,Cook,Professional Engineer (PE) License,Technical,2017-03-22,Industrial engineering design and manufacturing process optimization
+43,Dennis,Cook,Six Sigma Black Belt,Process Improvement,2019-06-15,Advanced quality management and process improvement leadership
+43,Dennis,Cook,Lean Manufacturing Certificate,Operations,2021-01-28,Manufacturing efficiency and waste reduction methodologies
+44,Helen,Bailey,Board Certified Pharmacotherapy Specialist,Medical,2017-04-20,Advanced pharmacotherapy and geriatric medication management
+44,Helen,Bailey,Medication Therapy Management,Medical,2019-08-15,Clinical pharmacy services and patient medication optimization
+44,Helen,Bailey,Spanish Pharmacy Professional,Language,2021-11-22,Pharmaceutical and medical terminology in Spanish language
+45,Lawrence,Rivera,Professional Engineer (PE) License,Technical,2016-08-18,Electrical engineering design and telecommunications system development
+45,Lawrence,Rivera,Fiber Optic Specialist Certification,Technical,2018-05-25,Optical communication systems and network infrastructure design
+45,Lawrence,Rivera,Spanish Telecommunications,Language,2020-12-12,Telecommunications and electrical engineering terminology in Spanish
+46,Teresa,Cooper,Clinical Research Coordinator Certification,Medical,2018-03-28,Good clinical practice and pharmaceutical research protocols
+46,Teresa,Cooper,Good Clinical Practice (GCP),Medical,2019-09-15,Clinical trial management and regulatory compliance standards
+46,Teresa,Cooper,German Clinical Research,Language,2021-06-20,Medical research and pharmaceutical terminology in German language
+47,Gerald,Peterson,Real Estate Broker License,Real Estate,2013-07-12,Advanced real estate transactions and commercial property management
+47,Gerald,Peterson,Certified Commercial Investment Member,Real Estate,2017-02-25,Commercial real estate investment analysis and market evaluation
+47,Gerald,Peterson,Spanish Real Estate Professional,Language,2019-10-18,Real estate and property management terminology in Spanish language
+48,Sandra,Richardson,National Board Certification,Education,2014-08-20,Advanced teaching methodologies and educational leadership standards
+48,Sandra,Richardson,Curriculum Development Certificate,Education,2017-11-15,Instructional design and academic program development techniques
+48,Sandra,Richardson,Spanish Education Professional,Language,2020-04-22,Educational terminology and teaching methods in Spanish language
+49,Kenneth,Cox,ServSafe Food Safety Manager,Culinary,2016-05-18,Food safety management and restaurant operation best practices
+49,Kenneth,Cox,Sommelier Level 1 Certification,Culinary,2018-09-25,Wine knowledge and beverage service professional standards
+49,Kenneth,Cox,French Culinary Professional,Language,2020-12-08,Culinary arts and restaurant terminology in French language
+50,Donna,Ward,Board Certified Emergency Veterinarian,Medical,2017-06-22,Emergency veterinary medicine and critical care specialization
+50,Donna,Ward,Veterinary Practice Management,Business,2019-11-15,Animal hospital administration and veterinary business operations
+50,Donna,Ward,Spanish Veterinary Professional,Language,2021-08-18,Veterinary medicine and animal care terminology in Spanish language
+51,Arthur,Torres,Professional Engineer (PE) License,Technical,2014-04-25,Electrical power systems design and energy infrastructure development
+51,Arthur,Torres,Power Systems Analysis Certification,Technical,2017-07-12,Electrical grid analysis and power generation optimization techniques
+51,Arthur,Torres,Spanish Electrical Engineering,Language,2020-02-28,Electrical engineering and power systems terminology in Spanish
+52,Cheryl,Peterson,Licensed Clinical Social Worker,Medical,2015-08-15,Clinical social work practice and mental health treatment protocols
+52,Cheryl,Peterson,Trauma-Informed Care Certification,Medical,2018-12-20,Trauma therapy techniques and behavioral health intervention strategies
+52,Cheryl,Peterson,Spanish Social Work Professional,Language,2021-05-22,Social work and mental health terminology in Spanish language
+53,Ralph,Gray,Law Enforcement Executive Certificate,Leadership,2017-09-18,Police administration and criminal justice leadership methodologies
+53,Ralph,Gray,Criminal Investigation Specialist,Technical,2019-04-25,Advanced investigative techniques and evidence analysis procedures
+53,Ralph,Gray,Spanish Law Enforcement,Language,2021-11-08,Law enforcement and criminal justice terminology in Spanish language
+54,Janice,Ramirez,HubSpot Marketing Automation,Technical,2020-03-15,Marketing workflow automation and lead nurturing strategies
+54,Janice,Ramirez,Google Ads Advanced Certification,Technical,2021-08-22,Advanced digital advertising and campaign optimization techniques
+54,Janice,Ramirez,Portuguese Marketing Professional,Language,2022-12-10,Marketing and advertising terminology in Portuguese language
+55,Wayne,James,Commercial Driver's License Class A,Technical,2006-01-20,Heavy vehicle operation and commercial transportation regulations
+55,Wayne,James,DOT Safety Compliance Officer,Safety,2015-05-28,Transportation safety regulations and fleet management compliance
+55,Wayne,James,Spanish Transportation Professional,Language,2019-09-15,Transportation and logistics terminology in Spanish language
+56,Gloria,Watson,Microsoft Office Specialist Master,Technical,2017-07-22,Advanced office productivity software and business application expertise
+56,Gloria,Watson,Administrative Professional Certification,Business,2019-12-15,Executive support and office management best practices
+56,Gloria,Watson,French Business Professional,Language,2021-06-18,Business administration and office terminology in French language
+57,Roy,Brooks,EPA Universal Refrigerant Certification,Technical,2013-08-15,Refrigerant handling and environmental compliance regulations
+57,Roy,Brooks,Energy Management Professional,Technical,2019-04-20,Energy efficiency analysis and building performance optimization
+57,Roy,Brooks,Spanish HVAC Professional,Language,2021-10-25,HVAC and mechanical systems terminology in Spanish language
+58,Frances,Kelly,Library Management Leadership,Leadership,2017-03-18,Library administration and information services management strategies
+58,Frances,Kelly,Digital Collections Specialist,Technical,2020-06-25,Digital library systems and information technology management
+58,Frances,Kelly,German Library Science,Language,2022-01-22,Library science and information management terminology in German
+59,Eugene,Sanders,Emergency Medical Services Instructor,Medical,2016-11-12,Emergency response training and firefighter safety protocols
+59,Eugene,Sanders,Hazmat Operations Specialist,Safety,2018-07-28,Hazardous materials response and emergency incident management
+59,Eugene,Sanders,Spanish Emergency Services,Language,2020-12-18,Emergency services and public safety terminology in Spanish language
+60,Marie,Price,Certified Strength and Conditioning Specialist,Medical,2016-08-20,Athletic performance training and sports medicine methodologies
+60,Marie,Price,Youth Sports Coaching Certification,Education,2019-02-15,Coaching techniques and adolescent athlete development programs
+60,Marie,Price,Spanish Sports Medicine,Language,2021-07-12,Sports medicine and athletic training terminology in Spanish language
+61,Louis,Bennett,Certified Welding Inspector,Technical,2014-05-25,Welding quality control and structural inspection standards
+61,Louis,Bennett,Pipeline Welding Specialist,Technical,2017-09-18,Specialized welding techniques for oil and gas infrastructure
+61,Louis,Bennett,Spanish Welding Professional,Language,2020-03-22,Welding and fabrication terminology in Spanish language
+62,Doris,Wood,Local Anesthesia Administration,Medical,2017-08-15,Dental anesthesia techniques and patient pain management protocols
+62,Doris,Wood,Dental Radiography Certification,Medical,2019-11-20,Dental imaging and radiation safety best practices
+62,Doris,Wood,Spanish Dental Professional,Language,2021-06-28,Dental hygiene and oral care terminology in Spanish language
+63,Albert,Barnes,Master Carpenter Certification,Technical,2008-04-18,Advanced carpentry techniques and construction craftsmanship standards
+63,Albert,Barnes,Construction Safety Supervisor,Safety,2012-09-25,Workplace safety management and construction hazard prevention
+63,Albert,Barnes,Spanish Construction Professional,Language,2018-01-15,Construction and carpentry terminology in Spanish language
+64,Lillian,Ross,Bank Customer Service Specialist,Financial,2018-07-20,Banking operations and customer relationship management techniques
+64,Lillian,Ross,Anti-Money Laundering Certification,Financial,2020-12-15,Financial compliance and fraud prevention methodologies
+64,Lillian,Ross,Spanish Banking Professional,Language,2022-05-18,Banking and financial services terminology in Spanish language
+65,Jose,Henderson,ASE Master Automobile Technician,Technical,2015-08-22,Advanced automotive repair and diagnostic techniques certification
+65,Jose,Henderson,Hybrid Vehicle Specialist,Technical,2019-05-15,Electric and hybrid vehicle maintenance and repair procedures
+65,Jose,Henderson,Spanish Automotive Professional,Language,2021-09-20,Automotive technology and repair terminology in Spanish language
+66,Annie,Coleman,State Cosmetology License,Technical,2010-06-18,Professional beauty services and salon management regulations
+66,Annie,Coleman,Advanced Color Theory Certification,Technical,2015-11-25,Hair coloring techniques and chemical processing methodologies
+66,Annie,Coleman,Small Business Management Certificate,Business,2018-04-22,Entrepreneurship and beauty business operation strategies

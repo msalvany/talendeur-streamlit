@@ -67,5 +67,6 @@ touch docs/setup_notes.md
 git add docs/setup_notes.md
 # record the new file in the branch’s history
 git commit -m "Add initial setup notes"
+# origin = my fork on GitHub
 git push -u origin docs/maria-notes
 ```

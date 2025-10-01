@@ -13,7 +13,7 @@ For HR, recruitment, and data analysis, automating the extraction can save huge 
 ⚠️ Scraping LinkedIn directly raises legal and ethical issues → it’s against their Terms of Service.
 That means: we need to carefully consider how we access and use this data.
 
-## Approaches
+## ⚙️ Approaches
 **A. Official API (LinkedIn Developer API)**
 - Only for approved apps, requires OAuth authentication.
 - Data access is very limited (basic profile fields, mostly for integrations like “Login with LinkedIn”).
@@ -105,16 +105,7 @@ scrapers, AI agents, and automation tools. We call them Actors."
     - Prefer user-uploaded data (PDF CVs).
     - Or apply to LinkedIn’s official API (though access is restrictive).
 
-## Testing strategy I would use
-1. Detect the **PDF type** (text vs scanned).
-    - Try reading with pdfplumber.
-    - If result is empty → assume scanned, apply OCR.
-2. **Normalize text** (remove line breaks, fix encoding issues).
-3. Apply **regex/NLP** to extract structured info:
-    - CVs: name, email, phone, skills.
-    - Invoices: vendor, total, date.
-
-## Takeaways
+## 📚 Takeaways
 - Unlike PDFs, scraping LinkedIn is less of a technical challenge and more of a legal/ethical challenge.
 - For an internship context, safest approach is to:
     - Focus on PDF scraping (user-provided data).

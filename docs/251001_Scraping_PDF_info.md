@@ -26,7 +26,7 @@ Scraping data from PDFs means developing ways to transform a visual document int
 - Contain both text and images (e.g., CV with a profile picture, logos, and a text layer).
 - Need a combination of extraction + OCR.
 
-## Tools I found
+## ⚙️ Tools I found
 **A. Text extraction**
 - [pdfplumber](https://www.pdfplumber.com/category/guide/): good balance between simplicity and accuracy, can also handle tables.
 
@@ -70,7 +70,7 @@ Scraping data from PDFs means developing ways to transform a visual document int
     - CVs: name, email, phone, skills.
     - Invoices: vendor, total, date.
 
-## Takeaways
+## 📚 Takeaways
 - There’s no “one-click” solution: scraping PDFs is about combining tool + strategy + cleaning.
 - For CVs: pdfplumber + regex + fallback OCR is probably the best starting stack.
 - Always expect manual review for edge cases.

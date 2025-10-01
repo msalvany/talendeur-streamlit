@@ -69,3 +69,9 @@ Scraping data from PDFs means developing ways to transform a visual document int
 3. Apply **regex/NLP** to extract structured info:
     - CVs: name, email, phone, skills.
     - Invoices: vendor, total, date.
+
+## Takeaways
+- There’s no “one-click” solution: scraping PDFs is about combining tool + strategy + cleaning.
+- For CVs: pdfplumber + regex + fallback OCR is probably the best starting stack.
+- Always expect manual review for edge cases.
+- The hardest part isn’t reading the PDF → it’s turning messy extracted text into structured fields.
